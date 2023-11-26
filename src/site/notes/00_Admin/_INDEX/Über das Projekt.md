@@ -7,7 +7,10 @@ by GGa, 2023-11-05T00:00:00.000+01:00
 
 > [!example]   **Über das Projekt**
 > 
-> Das Projekt **GGa65 Public** wird als Test eines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s verstanden, dass GGa65 (siehe [[00_Admin/_INDEX/Über mich\|Über mich]]) auf der Basis seines PKM Systems veröffentlicht.
+> Das Projekt wurde im Rahmen einer [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]] im Herbst 2023 begonnen und zunächst als **A [[70_Ressources/Terms/Digital Garden\|Digital Garden]]** unter der URL [https://muschelschale97.vercel.app](https://muschelschale97.vercel.app) begonnen.
+> Mit der Sicherung des Domainnamens **knowledge-garden.de** Ende November wurde das Projekt auf diese neue Domain transferiert.
+> 
+> Das Projekt stellt ein e-Portfolio dar, welches auf der Basis meines Persönlichen Wissensmanagement Systems (PKM system) veröffentlicht wird. Dabei handelt es sich um Teilveröffentlichungen aus meinem Original-PKM. Wer ich bin findet sich unter [[00_Admin/_INDEX/Über mich\|Über mich]].
 > 
 > Es ist der Versuch, sich persönlich mit effizienten Techniken der Veröffentlichung von Ausschnitten aus dem eigenen PKM System[^1] auseinanderzusetzen und diese Techniken einzuüben.
 > 
@@ -16,10 +19,10 @@ by GGa, 2023-11-05T00:00:00.000+01:00
   
 > [!tip] Wie man mich erreicht.
 > 
-> Der mir liebste Weg für Fragen und Hinweise zum Digital Garden ist der [über Mastodon](https://colearn.social/@gg) 
-> Mein Profil lautet @gg@colearn.social
+> Kommentare bitte unter Benennung des zu kommentierenden Beitrags entweder 
+> - [über Mastodon](https://colearn.social/@gg) oder
+> - über den Blauen Himmel [gga65](https://bsky.app/profile/gga65.bsky.social) oder
+> - einfach ganz altmodisch per [e-mail](mailto:gga65@posteo.de) 
 > 
-
-
 
 [^1]: Das eigene PKM System meint hier eine Lokale Obsidian-Installation (siehe [Obsidian - Sharpen your thinking](https://obsidian.md/)) mit vielerlei Plugins, die täglich in Benutzung ist.
