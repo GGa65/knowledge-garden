@@ -9,7 +9,7 @@ by GGa, 2023-10-20T00:00:00.000+02:00
 
 - Herbst 2023: [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]
 - Sommer 2023: [[Lernreise 2 Zettelkasten\|Lernreise 2 Zettelkasten]]
-- Frühjahr 2023: [[Lernreise 1 Zettelkasten\|Lernreise 1 Zettelkasten]]
+- Frühjahr 2023: [[10_Zettel/Lernreise 1 Zettelkasten\|Lernreise 1 Zettelkasten]]
 - Herbst 2022: [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]
 
 Lernreisen sind verschiedentlich notiert. Immer gibt es eine Notiz zum betreffenden Lernpfad, manchmal gibt es zusätzliche Notizen zum Kontext der Lernreise.
