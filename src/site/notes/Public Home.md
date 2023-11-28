@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [GGa auf Mastodon](https://colearn.social/@gg) |
