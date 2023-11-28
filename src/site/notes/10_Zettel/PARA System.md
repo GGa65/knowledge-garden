@@ -10,7 +10,7 @@ by GGa, 2023-11-26T00:00:00.000+01:00
 >   (nach [[60_People/Tiago Forte\|Tiago Forte]]s Buch [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]) 
 >   
 
--   **„Projekte (projects)“** – Dateiinformationen, die sich auf finite, kurzfristige Projekte mit klaren Zielen in diesem Ordner beziehen. Legen Sie für jedes arbeitsbezogene Projekt, jedes Nebenprojekt oder jedes persönliche Projekt einen Unterordner an.
+-   **„Projekte (projects)“** – Informationen, die sich auf finite, kurzfristige Projekte mit klaren Zielen beziehen. Legen Sie für jedes arbeitsbezogene Projekt, jedes Nebenprojekt oder jedes persönliche Projekt einen Unterordner an.
 
 -   **„Bereiche“ (areas)** – Ihr Bereichsordner enthält Informationen zu fortlaufenden langfristigen Verantwortlichkeiten. Sie kann einen Unterordner für jede Ihrer Arbeitsaufgaben enthalten, z.B. Produktentwicklung oder Kundenmanagement, und für jede persönliche Angelegenheit, wie Gesundheit, Kinder und Finanzen.
 
