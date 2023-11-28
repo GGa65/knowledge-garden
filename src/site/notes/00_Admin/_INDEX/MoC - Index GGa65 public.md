@@ -13,6 +13,7 @@
 | [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]]                                                  | 00_Admin/_INDEX        | November 06, 2023 |
 | [[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]                                                                              | 00_Admin/_INDEX        | October 13, 2023  |
+| [[00_Admin/_INDEX/MoC - Terms\|MoC - Terms]]                                                                                  | 00_Admin/_INDEX        | November 28, 2023 |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                                        | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                                      | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/00 VAULT Doku/Annotation-Note\|Annotation-Note]]                                                                   | 00_Admin/00 VAULT Doku | July 02, 2023     |
