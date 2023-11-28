@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-admin/index/mo-c-index-g-ga65-public/","tags":["class/index"],"noteIcon":"","created":"2023-11-05"}
+{"dg-publish":true,"permalink":"/00-admin/index/mo-c-index-g-ga65-public/","tags":["class/index"],"noteIcon":""}
 ---
 
 
@@ -10,7 +10,7 @@
 | [[Public Home\|Public Home]]                                                                                                  |                        | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]                                                        | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]                                                                        | 00_Admin/_INDEX        | October 20, 2023  |
-| [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX        | November 07, 2023 |
+| [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]]                                                  | 00_Admin/_INDEX        | November 06, 2023 |
 | [[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]                                                                              | 00_Admin/_INDEX        | October 13, 2023  |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                                        | 00_Admin/_INDEX        | November 05, 2023 |
@@ -19,12 +19,17 @@
 | [[00_Admin/00 VAULT Doku/Daily Note\|Daily Note]]                                                                             | 00_Admin/00 VAULT Doku | July 06, 2023     |
 | [[00_Admin/00 VAULT Doku/Personen-Notizen\|Personen-Notizen]]                                                                 | 00_Admin/00 VAULT Doku | July 03, 2023     |
 | [[00_Admin/00 VAULT Doku/PKM-Note\|PKM-Note]]                                                                                 | 00_Admin/00 VAULT Doku | July 02, 2023     |
+| [[09_Sources/Tiago Forte - Build your second brain - Summary\|Tiago Forte - Build your second brain - Summary]]               | 09_Sources             | November 07, 2023 |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                       | 09_Sources             | November 06, 2023 |
+| [[10_Zettel/CODE method\|CODE method]]                                                                                        | 10_Zettel              | November 26, 2023 |
+| [[10_Zettel/Embedding a Podcast\|Embedding a Podcast]]                                                                        | 10_Zettel              | November 28, 2023 |
+| [[10_Zettel/PARA System\|PARA System]]                                                                                        | 10_Zettel              | November 26, 2023 |
 | [[10_Zettel/Winter nach Mark Twain\|Winter nach Mark Twain]]                                                                  | 10_Zettel              | April 02, 2023    |
 | [[60_People/Alexis Rondeau\|Alexis Rondeau]]                                                                                  | 60_People              | June 05, 2023     |
 | [[60_People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]]                                                                        | 60_People              | July 27, 2023     |
 | [[60_People/Birgit Kelle\|Birgit Kelle]]                                                                                      | 60_People              | November 06, 2023 |
 | [[60_People/Nick Milo\|Nick Milo]]                                                                                            | 60_People              | May 11, 2023      |
+| [[60_People/Tiago Forte\|Tiago Forte]]                                                                                        | 60_People              | April 03, 2023    |
 | [[70_Ressources/Terms/BANI\|BANI]]                                                                                            | 70_Ressources/Terms    | November 19, 2023 |
 | [[70_Ressources/Terms/Digital Garden\|Digital Garden]]                                                                        | 70_Ressources/Terms    | November 06, 2023 |
 | [[70_Ressources/Terms/Frausein\|Frausein]]                                                                                    | 70_Ressources/Terms    | November 06, 2023 |
