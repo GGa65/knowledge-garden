@@ -14,5 +14,6 @@ und er ist erfolgreich verlaufen.
 
 ###### Woher bekommt man den Iframe?
 - im konkreten Fall gehe ich auf [Apple Postcasts](https://podcasts.apple.com/de/) und suche mir den entsprechenden einzubettenden Podcast aus, in diesen Fall [dieser](https://podcasts.apple.com/de/podcast/education-newscast/id1352307529)
-- und dann findet sich dort ein "Teilen-Button" ![Bildschirmfoto 2023-11-28 um 13.42.38.png](/img/user/70_Ressources/pasted_assets/Bildschirmfoto%202023-11-28%20um%2013.42.38.png) der sich zu einem kleinen Teilen-Optionen-Menue verwandelt, sobald man mit der Maus den Button berührt: ![Bildschirmfoto 2023-11-28 um 13.41.53.png](/img/user/70_Ressources/pasted_assets/Bildschirmfoto%202023-11-28%20um%2013.41.53.png) und mit der Option "`</>`" bekommt man eine Kopie des einzubettenden Iframes in die Zwischenablage gespielt. Die fügt man an der gewünschten Stelle in der Obsitian-Notiz ein und fertig!
+- und dann findet sich dort ein "Teilen-Button" , der sich zu einem kleinen Teilen-Optionen-Menue verwandelt, sobald man mit der Maus den Button berührt
+- und mit der Option "`</>`" bekommt man eine Kopie des einzubettenden Iframes in die Zwischenablage gespielt. Die fügt man an der gewünschten Stelle in der Obsitian-Notiz ein und fertig!
 - Und wie man hier auf [Embedding a Podcast (knowledge-garden.de)](https://www.knowledge-garden.de/10-zettel/embedding-a-podcast/) sieht, funktioniert das auch Ende-zu-Ende bis in die Veröffentlichung des [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s im World-Wide-Web.
