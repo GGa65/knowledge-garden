@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [GGa auf Mastodon](https://colearn.social/@gg) |
@@ -33,7 +33,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 **PROJEKTE** 
 - **DIGITAL GARDEN**: 
 	- **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
-	- **[[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
+	- **[[00_Admin/_INDEX/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 - **BLOG(s)**
 	- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
 	- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
