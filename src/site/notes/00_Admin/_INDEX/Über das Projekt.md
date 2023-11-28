@@ -3,7 +3,6 @@
 ---
 
 by GGa, 2023-11-05T00:00:00.000+01:00 
- 
 
 > [!example]   **Über das Projekt**
 > 
@@ -15,6 +14,8 @@ by GGa, 2023-11-05T00:00:00.000+01:00
 > Es ist der Versuch, sich persönlich mit effizienten Techniken der Veröffentlichung von Ausschnitten aus dem eigenen PKM System[^1] auseinanderzusetzen und diese Techniken einzuüben.
 > 
 > Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Frage zu nähern, inwieweit neben Wordpress andere Techniken in den persönlichen Dauergebrauch übernommen werden können.   
+>    
+> Mein **knowledge garden** ist der öffentliche Teil meines **Kollektaneen-Buch**es, wie es bei [[09_Sources/Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.\|Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.]] beschrieben ist.
 >    
   
 > [!tip] Wie man mich erreicht.
