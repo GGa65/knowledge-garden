@@ -24,6 +24,7 @@
 | [[09_Sources/The Product Book\|The Product Book]]                                                                                                                 | 09_Sources |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                           | 09_Sources |
 | [[09_Sources/Untitled\|Untitled]]                                                                                                                                 | 09_Sources |
+| [[09_Sources/Wild Duck\|Wild Duck]]                                                                                                                               | 09_Sources |
 | [[09_Sources/Wir Angepassten\|Wir Angepassten]]                                                                                                                   | 09_Sources |
 | [[09_Sources/Wurzeln der Portfolioarbeit - woraus das Konzept erwachsen ist\|Wurzeln der Portfolioarbeit - woraus das Konzept erwachsen ist]]                     | 09_Sources |
 
