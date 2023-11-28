@@ -10,7 +10,7 @@
 | [[Public Home\|Public Home]]                                                                                                  |                        | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]                                                        | 00_Admin/_INDEX        | November 05, 2023 |
 | [[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]                                                                        | 00_Admin/_INDEX        | October 20, 2023  |
-| [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX        | November 05, 2023 |
+| [[00_Admin/_INDEX/MoC - Public Outcome muschelschale97.vercel.app\|MoC - Public Outcome muschelschale97.vercel.app]]          | 00_Admin/_INDEX        | November 07, 2023 |
 | [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]]                                                  | 00_Admin/_INDEX        | November 06, 2023 |
 | [[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]                                                                              | 00_Admin/_INDEX        | October 13, 2023  |
 | [[00_Admin/_INDEX/MoC - Terms\|MoC - Terms]]                                                                                  | 00_Admin/_INDEX        | November 28, 2023 |
@@ -20,6 +20,7 @@
 | [[00_Admin/00 VAULT Doku/Daily Note\|Daily Note]]                                                                             | 00_Admin/00 VAULT Doku | July 06, 2023     |
 | [[00_Admin/00 VAULT Doku/Personen-Notizen\|Personen-Notizen]]                                                                 | 00_Admin/00 VAULT Doku | July 03, 2023     |
 | [[00_Admin/00 VAULT Doku/PKM-Note\|PKM-Note]]                                                                                 | 00_Admin/00 VAULT Doku | July 02, 2023     |
+| [[09_Sources/Der Politikpodcast\|Der Politikpodcast]]                                                                         | 09_Sources             | November 28, 2023 |
 | [[09_Sources/Tiago Forte - Build your second brain - Summary\|Tiago Forte - Build your second brain - Summary]]               | 09_Sources             | November 07, 2023 |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                       | 09_Sources             | November 06, 2023 |
 | [[10_Zettel/CODE method\|CODE method]]                                                                                        | 10_Zettel              | November 26, 2023 |
