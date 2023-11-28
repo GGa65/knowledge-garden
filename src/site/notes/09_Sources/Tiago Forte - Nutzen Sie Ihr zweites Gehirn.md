@@ -23,4 +23,6 @@ by GGa, 2023-11-06T00:00:00.000+01:00 (zuletzt bearbeitet: 2023-11-26T00:00:00.0
 
 
 ---
-[[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn - Summary\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn - Summary]]
+[[09_Sources/Tiago Forte - Build your second brain - Summary\|Tiago Forte - Build your second brain - Summary]]
+[[10_Zettel/Tiago Forte - Nutzen Sie Ihr zweites Gehirn - Summary\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn - Summary]]
+
