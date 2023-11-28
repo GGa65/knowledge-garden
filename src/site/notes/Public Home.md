@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [GGa auf Mastodon](https://colearn.social/@gg) |
@@ -50,6 +50,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 
 **LERNEN**
 - **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
+- **[[00_Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]** - Ein Verzeichnis der von mir (mehr oder weniger regelmäßig) konsumierten Podcasts.  
 
 
 
