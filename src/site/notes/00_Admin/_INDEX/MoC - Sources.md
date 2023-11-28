@@ -11,6 +11,7 @@
 | [[09_Sources/BK6-22-300 Regelungswerk Entwurf\|BK6-22-300 Regelungswerk Entwurf]]                                                                                 | 09_Sources |
 | [[09_Sources/CL20 MOOC - Corporate Learning 2.0 - Wissen ist keine Kompetenz\|CL20 MOOC - Corporate Learning 2.0 - Wissen ist keine Kompetenz]]                   | 09_Sources |
 | [[09_Sources/Das Handbuch Portfolioarbeit\|Das Handbuch Portfolioarbeit]]                                                                                         | 09_Sources |
+| [[09_Sources/Der Politikpodcast\|Der Politikpodcast]]                                                                                                             | 09_Sources |
 | [[09_Sources/Der Termin\|Der Termin]]                                                                                                                             | 09_Sources |
 | [[09_Sources/Die 5 Dysfunktionen eines Teams - Patrick Lencioni\|Die 5 Dysfunktionen eines Teams - Patrick Lencioni]]                                             | 09_Sources |
 | [[09_Sources/Die fünfte Disziplin\|Die fünfte Disziplin]]                                                                                                         | 09_Sources |
