@@ -11,5 +11,6 @@
 | [[60_People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]] | 60_People | July 27, 2023     |
 | [[60_People/Birgit Kelle\|Birgit Kelle]]               | 60_People | November 06, 2023 |
 | [[60_People/Nick Milo\|Nick Milo]]                     | 60_People | May 11, 2023      |
+| [[60_People/Tiago Forte\|Tiago Forte]]                 | 60_People | April 03, 2023    |
 
 { .block-language-dataview}
