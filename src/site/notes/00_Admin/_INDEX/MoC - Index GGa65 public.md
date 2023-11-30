@@ -21,6 +21,7 @@
 | [[00_Admin/00 VAULT Doku/Daily Note\|Daily Note]]                                                                             | 00_Admin/00 VAULT Doku | July 06, 2023     |
 | [[00_Admin/00 VAULT Doku/Personen-Notizen\|Personen-Notizen]]                                                                 | 00_Admin/00 VAULT Doku | July 03, 2023     |
 | [[00_Admin/00 VAULT Doku/PKM-Note\|PKM-Note]]                                                                                 | 00_Admin/00 VAULT Doku | July 02, 2023     |
+| [[09_Sources/345 -Grüner Parteitag im Spagat\|345 -Grüner Parteitag im Spagat]]                                               | 09_Sources             | November 30, 2023 |
 | [[09_Sources/Der Politikpodcast\|Der Politikpodcast]]                                                                         | 09_Sources             | November 28, 2023 |
 | [[09_Sources/Education NewsCast\|Education NewsCast]]                                                                         | 09_Sources             | November 30, 2023 |
 | [[09_Sources/Tiago Forte - Build your second brain - Summary\|Tiago Forte - Build your second brain - Summary]]               | 09_Sources             | November 07, 2023 |
