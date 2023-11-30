@@ -15,6 +15,7 @@
 | [[09_Sources/Der Termin\|Der Termin]]                                                                                                                             | 09_Sources |
 | [[09_Sources/Die 5 Dysfunktionen eines Teams - Patrick Lencioni\|Die 5 Dysfunktionen eines Teams - Patrick Lencioni]]                                             | 09_Sources |
 | [[09_Sources/Die fünfte Disziplin\|Die fünfte Disziplin]]                                                                                                         | 09_Sources |
+| [[09_Sources/Education NewsCast\|Education NewsCast]]                                                                                                             | 09_Sources |
 | [[09_Sources/Gerhard Gundermann - Rockpoet und Baggerfahrer\|Gerhard Gundermann - Rockpoet und Baggerfahrer]]                                                     | 09_Sources |
 | [[09_Sources/How to Take Smart Notes\|How to Take Smart Notes]]                                                                                                   | 09_Sources |
 | [[09_Sources/Luhmanns Werk\|Luhmanns Werk]]                                                                                                                       | 09_Sources |
