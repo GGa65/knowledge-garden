@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
-| [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [GGa auf Mastodon](https://colearn.social/@gg) |
-by GGa, 2023-11-05T00:00:00.000+01:00 
+| [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) | [Hier kommentieren](https://github.com/GGa65/knowledge-garden/discussions/new?category=comments) | 2023-11-05T00:00:00.000+01:00 |
+
 
 
 # Public Home 
@@ -32,7 +32,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 
 **PROJEKTE** 
 - **DIGITAL GARDEN**: 
-	- **[[00_Admin/_INDEX/MoC - Index GGa65 public\|MoC - Index GGa65 public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
+	- **[[00_Admin/_INDEX/MoC - Index Knowledge Garden public\|MoC - Index Knowledge Garden public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
 	- **[[00_Admin/_INDEX/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 - **BLOG(s)**
 	- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
