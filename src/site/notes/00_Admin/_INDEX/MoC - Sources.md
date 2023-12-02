@@ -10,6 +10,7 @@
 | [[09_Sources/345 -Grüner Parteitag im Spagat\|345 -Grüner Parteitag im Spagat]]                                                                                   | 09_Sources |
 | [[09_Sources/Alexandria Proclamation of 2005\|Alexandria Proclamation of 2005]]                                                                                   | 09_Sources |
 | [[09_Sources/BK6-22-300 Regelungswerk Entwurf\|BK6-22-300 Regelungswerk Entwurf]]                                                                                 | 09_Sources |
+| [[09_Sources/BSI-TR-03109-1 Smart-Meter-Gateway\|BSI-TR-03109-1 Smart-Meter-Gateway]]                                                                             | 09_Sources |
 | [[09_Sources/CL20 MOOC - Corporate Learning 2.0 - Wissen ist keine Kompetenz\|CL20 MOOC - Corporate Learning 2.0 - Wissen ist keine Kompetenz]]                   | 09_Sources |
 | [[09_Sources/Das Handbuch Portfolioarbeit\|Das Handbuch Portfolioarbeit]]                                                                                         | 09_Sources |
 | [[09_Sources/Der Politikpodcast\|Der Politikpodcast]]                                                                                                             | 09_Sources |
