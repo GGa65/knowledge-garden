@@ -5,7 +5,7 @@
 
 #### BSI-TR-03109-1 Smart-Meter-Gateway
 
-![](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/TechnischeRichtlinien/TR03109/TR03109-1.pdf?__blob=publicationFile&v=4)
+![[70_Ressources/PDF-DOCS/TR03109-1.pdf|TR03109-1]]
 
 
 
