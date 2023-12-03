@@ -4,6 +4,8 @@
 
 
 #### BSI-TR-03109-1 Smart-Meter-Gateway
-<iframe src="https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/TechnischeRichtlinien/TR03109/TR03109-1.pdf?__blob=publicationFile&amp;v=4" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 4 / 3;"></iframe>
+
+<iframe src="https://github.com/GGa65/knowledge-garden/blob/main/src/site/notes/70_Ressources/PDF-DOCS/TR03109-1.pdf" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 
 
