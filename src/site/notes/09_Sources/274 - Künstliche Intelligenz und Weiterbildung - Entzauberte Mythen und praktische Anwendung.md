@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-sources/274-kuenstliche-intelligenz-und-weiterbildung-entzauberte-mythen-und-praktische-anwendung/","noteIcon":""}
+{"dg-publish":true,"permalink":"/09-sources/274-kuenstliche-intelligenz-und-weiterbildung-entzauberte-mythen-und-praktische-anwendung/","noteIcon":"","created":"2023-11-30"}
 ---
 
 ### 274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung 
