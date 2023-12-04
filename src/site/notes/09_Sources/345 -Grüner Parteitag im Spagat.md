@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-sources/345-gruener-parteitag-im-spagat/","tags":["class/sourceNote"],"noteIcon":"","created":"2023-11-30"}
+{"dg-publish":true,"permalink":"/09-sources/345-gruener-parteitag-im-spagat/","tags":["class/sourceNote"],"noteIcon":""}
 ---
 
 ### 345 -Grüner Parteitag im Spagat 
