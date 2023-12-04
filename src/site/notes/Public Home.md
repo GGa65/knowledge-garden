@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-11-05"}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) | [Hier kommentieren](https://github.com/GGa65/knowledge-garden/discussions/new?category=comments) |
@@ -45,7 +45,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 	- [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
 - **[[00_Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
 - **[[00_Admin/_INDEX/MoC - Sources\|MoC - Sources]]** - ein Verzeichnis der im PKM-System gesammelten Quellen-Notizen
-- **[[00_Admin/_INDEX/MoC - Terms\|MoC - Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
+- **[[00_Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
 
 **LERNEN**
 - **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
