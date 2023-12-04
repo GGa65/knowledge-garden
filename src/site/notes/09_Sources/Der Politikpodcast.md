@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-sources/der-politikpodcast/","tags":["class/sourceNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/09-sources/der-politikpodcast/","tags":["class/sourceNote"],"noteIcon":"","created":"2023-11-28"}
 ---
 
 
