@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-sources/education-news-cast/","tags":["class/sourceNote"],"noteIcon":"","created":"2023-11-30"}
+{"dg-publish":true,"permalink":"/09-sources/education-news-cast/","tags":["class/sourceNote"],"noteIcon":""}
 ---
 
 
