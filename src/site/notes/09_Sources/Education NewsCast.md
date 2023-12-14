@@ -10,8 +10,11 @@
 > [!abstract] PODCAST Beschreibung
 > Der Podcast zu News, Trends, Grundlagen zu den Themen Weiterbildung, Training, Corporate Learning, New Work. Der Education Podcast berichtet dabei von Erfahrungen in der Personalentwicklung in Firmen, öffentlichen Einrichtungen und gelegentlich auch speziell mit SAP Schulung.
 
-`Motive bietet einen Ort, an dem ich aufzeichnen kann, warum ich einer Quelle nachgegangen bin oder wie ich darauf gestoßen bin. Meine Motiverklärung wird wahrscheinlich mit Links zu verschiedenen Domains, anderen Büchern usw. gespickt sein. WARUM HABE ICH DAS GELESEN? ggf. Benennt das Motiv kurz den Inhalt, weil darin das Motiv liegt.`
-**Motive**:: 
+### Notizen zu Folgen dieses Podcasts
+| Notiz                                                                                                                                                                                                        | Ort        | Typ     | Veröffentlicht |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------- | -------------- |
+| [[09_Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | 09_Sources | Podcast | true           |
+| [[09_Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | 09_Sources | Podcast | true           |
 
-`Gibt es vorwegnehmbare Situationen, in der ich dieses Buch gerne wiederentdecken würde? Links zu Domains, anderen Büchern oder sogar bestimmten Veranstaltungen oder Ereignissen.`
-**Wiederentdeckung**:: 
+{ .block-language-dataview}
+
