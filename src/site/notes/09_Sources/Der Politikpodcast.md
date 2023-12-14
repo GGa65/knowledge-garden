@@ -14,10 +14,11 @@
 
 
 
-## Folgen-Notizen
+## Notizen zu Folgen dieses Podcasts
 | Notiz                                                                              | Ort        | Typ     | Veröffentlicht |
 | ---------------------------------------------------------------------------------- | ---------- | ------- | -------------- |
 | [[09_Sources/345 -Grüner Parteitag im Spagat\|345 -Grüner Parteitag im Spagat]] | 09_Sources | Podcast | true           |
 
 { .block-language-dataview}
+
 
