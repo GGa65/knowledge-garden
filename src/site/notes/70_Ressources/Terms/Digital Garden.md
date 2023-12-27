@@ -10,7 +10,7 @@ by GGa, 2023-11-06T00:00:00.000+01:00
 > ([[60_People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]] @ [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up))
 > 
 
-Das ⬆️ bedeutet, dass die Website [muschelschale97.vercel.app](https://muschelschale97.vercel.app/) ein **Digital Garden** ist. Sie ist **Mein Digital Garden**.
+Das ⬆️ bedeutet, dass die Website [knowledge-garden.de](https://knowledge-garden.de) ein **Digital Garden** ist. Sie ist **Mein Digital Garden**.
 
 **Digitaler Garten** ist einfach ein schönerer Begriff als der Begriff **"Gedankensalat"**[^1].
 
