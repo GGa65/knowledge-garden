@@ -13,8 +13,8 @@
 ### Notizen zu Folgen dieses Podcasts
 | Notiz                                                                                                                                                                                                        | Ort        | Typ     | Veröffentlicht |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------- | -------------- |
-| [[09_Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | 09_Sources | Podcast | true           |
 | [[09_Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | 09_Sources | Podcast | true           |
+| [[09_Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | 09_Sources | Podcast | true           |
 
 { .block-language-dataview}
 
