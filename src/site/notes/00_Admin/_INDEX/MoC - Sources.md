@@ -28,6 +28,7 @@
 | [[09_Sources/Nutzen Sie Ihr zweites Gehirn ...\|Nutzen Sie Ihr zweites Gehirn ...]]                                                                                                                       | 09_Sources |
 | [[09_Sources/Sahra Wagenknecht und ihre Parteipläne Die Unfassbare - DER SPIEGEL\|Sahra Wagenknecht und ihre Parteipläne Die Unfassbare - DER SPIEGEL]]                                                   | 09_Sources |
 | [[09_Sources/Schlüsselwerke der Wirtschaftssoziologie - Klaus Kraemer Florian Brugger\|Schlüsselwerke der Wirtschaftssoziologie - Klaus Kraemer Florian Brugger]]                                         | 09_Sources |
+| [[09_Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]]                                       | 09_Sources |
 | [[09_Sources/Spiegel_DieUnfassbare_2023-04-14\|Spiegel_DieUnfassbare_2023-04-14]]                                                                                                                         | 09_Sources |
 | [[09_Sources/The Product Book\|The Product Book]]                                                                                                                                                         | 09_Sources |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                                                                   | 09_Sources |
