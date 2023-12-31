@@ -18,8 +18,10 @@
 
 #### Nennungen im Vault
 `Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
-| Notiz | Ort | Erstellt |
-| ----- | --- | -------- |
+| Notiz                                                                                                                                                                  | Ort              | Erstellt          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------------- |
+| [[00_Journal/Daily/2023-12-29\|2023-12-29]]                                                                                                                         | 00_Journal/Daily | December 30, 2023 |
+| [[09_Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]] | 09_Sources       | December 31, 2023 |
 
 { .block-language-dataview}
 
@@ -37,8 +39,9 @@
 { .block-language-dataview}
 
 #### Autorenchaften
-| SourceNote | Details |
-| ---------- | ------- |
+| SourceNote                                                                                                                                                             | Details                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [[09_Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]] | <ul><li>[[60_People/Rainer Mühlhoff.md\\|Rainer Mühlhoff]]</li></ul> |
 
 { .block-language-dataview}
 
