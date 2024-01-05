@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) | [Hier kommentieren](https://github.com/GGa65/knowledge-garden/discussions/new?category=comments) |
@@ -19,6 +19,42 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 > > „Es liegt natürlich immer bei Ihnen, welches Medium Sie für Ihre Notizen wählen, **aber denken Sie daran, dass auch Ihr zweites Gehirn privat ist**. **Sie können bestimmte Notizen teilen**, wenn Sie das wollen, **aber standardmäßig ist alles Niedergeschriebene ausschließlich für Sie selbst bestimmt**.“ 
 > 
 >  
+
+## What´s New (last 30)
+| New                                                                                                                                                                                                          | Ort                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [[09_Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]]                                       | 09_Sources             |
+| [[60_People/Rainer Mühlhoff\|Rainer Mühlhoff]]                                                                                                                                                            | 60_People              |
+| [[60_People/Philipp Hübl\|Philipp Hübl]]                                                                                                                                                                  | 60_People              |
+| [[00_Journal/2023-12-21 note of the day\|2023-12-21 note of the day]]                                                                                                                                     | 00_Journal             |
+| [[09_Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | 09_Sources             |
+| [[70_Ressources/Terms/Tarifanwendungsfälle TAF\|Tarifanwendungsfälle TAF]]                                                                                                                                | 70_Ressources/Terms    |
+| [[70_Ressources/PDF-DOCS/Readme\|Readme]]                                                                                                                                                                 | 70_Ressources/PDF-DOCS |
+| [[09_Sources/BSI-TR-03109-1 Smart-Meter-Gateway\|BSI-TR-03109-1 Smart-Meter-Gateway]]                                                                                                                     | 09_Sources             |
+| [[09_Sources/Education NewsCast\|Education NewsCast]]                                                                                                                                                     | 09_Sources             |
+| [[09_Sources/345 -Grüner Parteitag im Spagat\|345 -Grüner Parteitag im Spagat]]                                                                                                                           | 09_Sources             |
+| [[09_Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | 09_Sources             |
+| [[10_Zettel/Embedding a Podcast\|Embedding a Podcast]]                                                                                                                                                    | 10_Zettel              |
+| [[09_Sources/Der Politikpodcast\|Der Politikpodcast]]                                                                                                                                                     | 09_Sources             |
+| [[00_Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]                                                                                                                                                | 00_Admin/_INDEX        |
+| [[00_Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]                                                                                                                                                        | 00_Admin/_INDEX        |
+| [[10_Zettel/PARA System\|PARA System]]                                                                                                                                                                    | 10_Zettel              |
+| [[10_Zettel/CODE method\|CODE method]]                                                                                                                                                                    | 10_Zettel              |
+| [[81_gardening/Gedanken zu KI\|Gedanken zu KI]]                                                                                                                                                           | 81_gardening           |
+| [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | 70_Ressources/Terms    |
+| [[70_Ressources/Terms/BANI\|BANI]]                                                                                                                                                                        | 70_Ressources/Terms    |
+| [[09_Sources/Tiago Forte - Build your second brain - Summary\|Tiago Forte - Build your second brain - Summary]]                                                                                           | 09_Sources             |
+| [[00_Admin/_INDEX/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]                                                                                                    | 00_Admin/_INDEX        |
+| [[70_Ressources/Terms/Frausein\|Frausein]]                                                                                                                                                                | 70_Ressources/Terms    |
+| [[70_Ressources/Terms/Digital Garden\|Digital Garden]]                                                                                                                                                    | 70_Ressources/Terms    |
+| [[60_People/Birgit Kelle\|Birgit Kelle]]                                                                                                                                                                  | 60_People              |
+| [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                                                                   | 09_Sources             |
+| [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]]                                                                                                                              | 00_Admin/_INDEX        |
+| [[Public Home\|Public Home]]                                                                                                                                                                              |                        |
+| [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                                                                                                     | 81_gardening           |
+| [[00_Admin/_INDEX/Über mich\|Über mich]]                                                                                                                                                                  | 00_Admin/_INDEX        |
+
+{ .block-language-dataview}
 
 ## Content Sheet
 > [!success] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
