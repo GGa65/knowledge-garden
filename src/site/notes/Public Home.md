@@ -21,6 +21,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 >  
 
 ## [[Whats new\|Whats new]] 
+Unter dem Link [[Whats new\|Whats new]] findet sich eine Aufstellung der letzte 30 neu hinzugefügten beziehungsweise modifizierten Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s. 
 
 ## Content Sheet
 > [!success] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
