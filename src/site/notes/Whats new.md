@@ -11,6 +11,7 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | New                                                                                                                                                                                                          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | [[70_Ressources/Terms/Deckungsbeitrag\|Deckungsbeitrag]]                                                                                                                                                  | 70_Ressources/Terms    |
+| [[09_Sources/Braucht es Regeln für Liebe im Kabinett\|Braucht es Regeln für Liebe im Kabinett]]                                                                                                           | 09_Sources             |
 | [[60_People/Rainer Mühlhoff\|Rainer Mühlhoff]]                                                                                                                                                            | 60_People              |
 | [[09_Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]]                                       | 09_Sources             |
 | [[60_People/Philipp Hübl\|Philipp Hübl]]                                                                                                                                                                  | 60_People              |
@@ -39,6 +40,5 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]]                                                                             | 80_outcome             |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | 80_outcome             |
 | [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                                                                                                     | 80_outcome             |
-| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                                                                                                           | 80_outcome             |
 
 { .block-language-dataview}
