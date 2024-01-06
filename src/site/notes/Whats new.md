@@ -5,7 +5,8 @@
 ## What´s New (last 30)
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
-2024-01-06T13:43:28.612+01:00
+2024-01-06T17:02:01.791+01:00
+
 
 
 | New                                                                                                                                                                                                          | Ort                    |
@@ -42,3 +43,5 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | 80_outcome             |
 
 { .block-language-dataview}
+
+
