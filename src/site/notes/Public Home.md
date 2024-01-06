@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) | [Hier kommentieren](https://github.com/GGa65/knowledge-garden/discussions/new?category=comments) |
 
 
 # Public Home 
-Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist dies der zentrale Knoten im Geflecht des sogenannten *Second Brain*[^1].
 
-Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. Und mein veröffentlichter Gedankensalat ist **Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]]**.
+Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist diese Notiz der zentrale Knoten im Geflecht des sogenannten **Second Brain**[^1].
+
+Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **veröffentlichten** Gedankensalat[^2]. Und mein veröffentlichter Gedankensalat ist **Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]]**, der den Namen **[GGa´s Knowledge Garden](https://knowledge-garden.de)** trägt und unter https://knowledge-garden.de im world wide web zu finden ist.
 
 --- 
 ## Anstelle eines Vorworts
@@ -21,7 +22,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 >  
 
 ## [[Whats new\|Whats new]] 
-Unter dem Link [[Whats new\|Whats new]] findet sich eine Aufstellung der letzten 30 neu hinzugefügten beziehungsweise modifizierten Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s. 
+- Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es eine Notiz genau zu dieser Frage: Unter **[[Whats new\|Whats new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s. 
 
 ## Content Sheet
 > [!success] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
