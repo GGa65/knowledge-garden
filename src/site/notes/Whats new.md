@@ -5,8 +5,12 @@
 ## What´s New (last 30)
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
+2024-01-06T13:43:28.612+01:00
+
+
 | New                                                                                                                                                                                                          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [[70_Ressources/Terms/Deckungsbeitrag\|Deckungsbeitrag]]                                                                                                                                                  | 70_Ressources/Terms    |
 | [[60_People/Rainer Mühlhoff\|Rainer Mühlhoff]]                                                                                                                                                            | 60_People              |
 | [[09_Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]]                                       | 09_Sources             |
 | [[60_People/Philipp Hübl\|Philipp Hübl]]                                                                                                                                                                  | 60_People              |
@@ -36,6 +40,5 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | 80_outcome             |
 | [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                                                                                                     | 80_outcome             |
 | [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                                                                                                           | 80_outcome             |
-| [[60_People/Tiago Forte\|Tiago Forte]]                                                                                                                                                                    | 60_People              |
 
 { .block-language-dataview}
