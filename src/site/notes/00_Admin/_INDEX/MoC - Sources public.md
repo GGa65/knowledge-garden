@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/00-admin/index/mo-c-sources-public/","tags":["class/index"],"noteIcon":""}
 ---
 
+ 2024-01-06T17:00:45.872+01:00
  
-## Verzeichnis der public SOURCE-NOTES
+## Verzeichnis der public SOURCE-NOTES 
 
 | Notiz                                                                                                                                                                                                        | Ort        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
@@ -18,6 +19,9 @@
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                                                                   | 09_Sources |
 
 { .block-language-dataview}
+
+
+
 
 
 
