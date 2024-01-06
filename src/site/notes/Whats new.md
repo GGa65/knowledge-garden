@@ -3,7 +3,7 @@
 ---
 
 ## What´s New (last 30)
-Aufstellung der letzten 30 neu hinzugefügten beziehungsweise modifizierten Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s. 
+Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
 | New                                                                                                                                                                                                          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
