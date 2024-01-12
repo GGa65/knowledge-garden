@@ -5,12 +5,11 @@
 ## What´s New (last 30)
 Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s, absteigend nach Bearbeitungssdatum sortiert. 
 
-2024-01-06T17:02:01.791+01:00
-
 
 
 | New                                                                                                                                                                                                          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [[81_gardening/Gedanken zu KI\|Gedanken zu KI]]                                                                                                                                                           | 81_gardening           |
 | [[70_Ressources/Terms/Deckungsbeitrag\|Deckungsbeitrag]]                                                                                                                                                  | 70_Ressources/Terms    |
 | [[09_Sources/Braucht es Regeln für Liebe im Kabinett\|Braucht es Regeln für Liebe im Kabinett]]                                                                                                           | 09_Sources             |
 | [[00_Admin/_INDEX/MoC - Sources public\|MoC - Sources public]]                                                                                                                                            | 00_Admin/_INDEX        |
@@ -25,7 +24,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[09_Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | 09_Sources             |
 | [[09_Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | 09_Sources             |
 | [[70_Ressources/Terms/Tarifanwendungsfälle TAF\|Tarifanwendungsfälle TAF]]                                                                                                                                | 70_Ressources/Terms    |
-| [[81_gardening/Gedanken zu KI\|Gedanken zu KI]]                                                                                                                                                           | 81_gardening           |
 | [[00_Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]                                                                                                                                                | 00_Admin/_INDEX        |
 | [[09_Sources/BSI-TR-03109-1 Smart-Meter-Gateway\|BSI-TR-03109-1 Smart-Meter-Gateway]]                                                                                                                     | 09_Sources             |
 | [[70_Ressources/PDF-DOCS/Readme\|Readme]]                                                                                                                                                                 | 70_Ressources/PDF-DOCS |
@@ -35,12 +33,12 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[00_Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]                                                                                                                                                        | 00_Admin/_INDEX        |
 | [[10_Zettel/PARA System\|PARA System]]                                                                                                                                                                    | 10_Zettel              |
 | [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                                                                                                     | 81_gardening           |
-| [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | 70_Ressources/Terms    |
-| [[70_Ressources/Terms/Frausein\|Frausein]]                                                                                                                                                                | 70_Ressources/Terms    |
-| [[70_Ressources/Terms/BANI\|BANI]]                                                                                                                                                                        | 70_Ressources/Terms    |
-| [[80_outcome/LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE\|LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE]]                                                                                                     | 80_outcome             |
 | [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]]                                                                             | 80_outcome             |
+| [[80_outcome/LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE\|LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE]]                                                                                                     | 80_outcome             |
+| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                                                                                                           | 80_outcome             |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | 80_outcome             |
+| [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                                                                                                     | 80_outcome             |
+| [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | 70_Ressources/Terms    |
 
 { .block-language-dataview}
 
