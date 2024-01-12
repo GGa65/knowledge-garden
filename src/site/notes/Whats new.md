@@ -9,6 +9,7 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 
 | New                                                                                                                                                                                                          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [[00_Admin/_INDEX/MoC über die gefühlte Produktivität\|MoC über die gefühlte Produktivität]]                                                                                                              | 00_Admin/_INDEX        |
 | [[81_gardening/Gedanken zu KI\|Gedanken zu KI]]                                                                                                                                                           | 81_gardening           |
 | [[70_Ressources/Terms/Deckungsbeitrag\|Deckungsbeitrag]]                                                                                                                                                  | 70_Ressources/Terms    |
 | [[09_Sources/Braucht es Regeln für Liebe im Kabinett\|Braucht es Regeln für Liebe im Kabinett]]                                                                                                           | 09_Sources             |
@@ -38,7 +39,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                                                                                                           | 80_outcome             |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | 80_outcome             |
 | [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                                                                                                     | 80_outcome             |
-| [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | 70_Ressources/Terms    |
 
 { .block-language-dataview}
 
