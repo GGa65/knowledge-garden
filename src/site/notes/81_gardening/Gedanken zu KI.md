@@ -3,7 +3,7 @@
 ---
 
 by GGa, 2023-11-19T00:00:00.000+01:00  
-reworked 2023-12-10T11:09:27.072+01:00
+reworked 2024-01-07T14:21:42.044+01:00
 
 ### Gedanken zu KI
 
@@ -30,4 +30,4 @@ Aus Sicht der Wirtschaft ist meine Forderung, dass Absolventen
 ---
 [[Christian Spannagel\|Christian Spannagel]] inspiriert:
 - "Wir leben in einer durch Digitalisierung geprägten Welt. Überall wirken Algorithmen um uns herum. Und wenn wir an eine Welt denken, in der Menschen nicht so genau wissen, was das ist, dann sind natürlich ... diejenigen, die wissen, wie sie Algorithmen für ihre eigenen Interessen einsetzen können, in der Lage Menschen zu manipulieren. Also **eine informatisch ungebildete Gesellschaft ist eine Gefahr für die Demokratie**."
-- 
+
