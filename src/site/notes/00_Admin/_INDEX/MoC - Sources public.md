@@ -13,7 +13,7 @@
 | [[09_Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | 09_Sources |
 | [[09_Sources/BSI-TR-03109-1 Smart-Meter-Gateway\|BSI-TR-03109-1 Smart-Meter-Gateway]]                                                                                                                     | 09_Sources |
 | [[09_Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | 09_Sources |
-| [[09_Sources/345 -Grüner Parteitag im Spagat\|345 -Grüner Parteitag im Spagat]]                                                                                                                           | 09_Sources |
+| [[09_Sources/345 - Grüner Parteitag im Spagat\|345 - Grüner Parteitag im Spagat]]                                                                                                                         | 09_Sources |
 | [[09_Sources/Podcast Education NewsCast\|Podcast Education NewsCast]]                                                                                                                                     | 09_Sources |
 | [[09_Sources/Podcast Der Politikpodcast\|Podcast Der Politikpodcast]]                                                                                                                                     | 09_Sources |
 | [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                                                                   | 09_Sources |
