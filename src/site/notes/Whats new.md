@@ -9,6 +9,7 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 
 | New                                                                                                                                                                                                          | Modified          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---------------------- |
+| [[60_People/Nick Milo\|Nick Milo]]                                                                                                                                                                        | February 03, 2024 | 60_People              |
 | [[09_Sources/Podcast Mittelweg 36\|Podcast Mittelweg 36]]                                                                                                                                                 | February 03, 2024 | 09_Sources             |
 | [[09_Sources/Podcast Der Politikpodcast\|Podcast Der Politikpodcast]]                                                                                                                                     | January 22, 2024  | 09_Sources             |
 | [[09_Sources/Podcast Education NewsCast\|Podcast Education NewsCast]]                                                                                                                                     | January 22, 2024  | 09_Sources             |
@@ -38,7 +39,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[70_Ressources/Terms/BANI\|BANI]]                                                                                                                                                                        | November 26, 2023 | 70_Ressources/Terms    |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | November 26, 2023 | 80_outcome             |
 | [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]]                                                                             | November 26, 2023 | 80_outcome             |
-| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                                                                                                           | November 26, 2023 | 80_outcome             |
 
 { .block-language-dataview}
 
