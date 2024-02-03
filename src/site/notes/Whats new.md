@@ -27,7 +27,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[00_Journal/2023-12-21 note of the day\|2023-12-21 note of the day]]                                                                                                                                     | 00_Journal             |
 | [[70_Ressources/Terms/Tarifanwendungsfälle TAF\|Tarifanwendungsfälle TAF]]                                                                                                                                | 70_Ressources/Terms    |
 | [[00_Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]                                                                                                                                                | 00_Admin/_INDEX        |
-| [[09_Sources/BSI-TR-03109-1 Smart-Meter-Gateway\|BSI-TR-03109-1 Smart-Meter-Gateway]]                                                                                                                     | 09_Sources             |
 | [[70_Ressources/PDF-DOCS/Readme\|Readme]]                                                                                                                                                                 | 70_Ressources/PDF-DOCS |
 | [[70_Ressources/Terms/Annual Contract Value ACV\|Annual Contract Value ACV]]                                                                                                                              | 70_Ressources/Terms    |
 | [[70_Ressources/Terms/21st century skills\|21st century skills]]                                                                                                                                          | 70_Ressources/Terms    |
@@ -39,6 +38,7 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[70_Ressources/Terms/BANI\|BANI]]                                                                                                                                                                        | 70_Ressources/Terms    |
 | [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                                                                                                   | 80_outcome             |
 | [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]]                                                                             | 80_outcome             |
+| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                                                                                                           | 80_outcome             |
 
 { .block-language-dataview}
 
