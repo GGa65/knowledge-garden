@@ -15,6 +15,7 @@
 > - [[Jens Bisky\|Jens Bisky]] ist leitender Redakteur des Mittelweg 36.
 > 
 
+
 ## Folgen-Notizen
 | Notiz | Ort | Typ | Veröffentlicht |
 | ----- | --- | --- | -------------- |
