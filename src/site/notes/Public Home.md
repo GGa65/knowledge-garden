@@ -1,15 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
 
 
 # Public Home von knowledge-garden.de
-
-dieser Text sollte zu sehen sein, sonst ist das Projekt defekt
-
-
 
 Im Sinne von [[60_People/Nick Milo\|Nick Milo]] und seinem [[10_Zettel/LYT approach\|LYT approach]] ist diese Notiz der zentrale Knoten im Geflecht des sogenannten **Second Brain**[^1].
 
