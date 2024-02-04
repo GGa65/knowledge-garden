@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-journal/2023-05-14-note-of-the-day/","tags":["class/note"],"noteIcon":""}
 ---
 
-Auf Mastodon einen Post gefunden der einen sinnvollen Spruch zitiert:
+Auf Mastodon einen Post gefunden mit einem schönen Zitat:
 
 > [!quote]
 > "Geboren wird nicht nur das Kind durch die Mutter, sondern auch die Mutter durch das Kind", 
