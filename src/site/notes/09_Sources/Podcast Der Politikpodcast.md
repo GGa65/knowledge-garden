@@ -13,8 +13,8 @@
 ## Notizen zu Folgen dieses Podcasts
 | Notiz                                                                                                                          | Ort        | Typ                       | Veröffentlicht |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------- | -------------- |
-| [[09_Sources/351 - Rechtsextreme - Deutschland sucht das Gegengift\|351 - Rechtsextreme - Deutschland sucht das Gegengift]] | 09_Sources | <ul><li>Podcast</li></ul> | \-             |
 | [[09_Sources/345 - Grüner Parteitag im Spagat\|345 - Grüner Parteitag im Spagat]]                                           | 09_Sources | <ul><li>Podcast</li></ul> | true           |
+| [[09_Sources/351 - Rechtsextreme - Deutschland sucht das Gegengift\|351 - Rechtsextreme - Deutschland sucht das Gegengift]] | 09_Sources | <ul><li>Podcast</li></ul> | \-             |
 
 { .block-language-dataview}
 
