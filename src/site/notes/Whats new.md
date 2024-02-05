@@ -9,6 +9,7 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 
 | New                                                                                                                                                                                                          | Modified          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---------------------- |
+| [[10_Zettel/PARA\|PARA]]                                                                                                                                                                                  | February 05, 2024 | 10_Zettel              |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                                                                                                                    | February 05, 2024 | 00_Admin/_INDEX        |
 | [[60_People/Gertrud von le Fort\|Gertrud von le Fort]]                                                                                                                                                    | February 04, 2024 | 60_People              |
 | [[00_Journal/2023-05-14 note of the day\|2023-05-14 note of the day]]                                                                                                                                     | February 04, 2024 | 00_Journal             |
@@ -38,7 +39,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[00_Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]                                                                                                                                                        | November 28, 2023 | 00_Admin/_INDEX        |
 | [[10_Zettel/PARA System\|PARA System]]                                                                                                                                                                    | November 27, 2023 | 10_Zettel              |
 | [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | November 26, 2023 | 70_Ressources/Terms    |
-| [[70_Ressources/Terms/Frausein\|Frausein]]                                                                                                                                                                | November 26, 2023 | 70_Ressources/Terms    |
 
 { .block-language-dataview}
 
