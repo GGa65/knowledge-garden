@@ -11,3 +11,8 @@
 > - **R**essourcen
 > - **A**rchiv
 >  
+
+- wie man sehr einfach erkennt, ich halte mich daran nicht
+- wohl aber habe mich anfangs daran orientiert
+- letztlich ist es eine Frage des persönlichen Geschmacks
+- Und damit schließt sich auch ein Kreis. Denn insofern mein **Persönliches** KM-System **persönlich** ist, muss es eben nicht so aussehen wie jenes von Tiago Forte 😃
