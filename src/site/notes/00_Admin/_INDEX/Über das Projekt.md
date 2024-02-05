@@ -6,16 +6,18 @@ by GGa, 2023-11-05T00:00:00.000+01:00
 
 > [!example]   **Über das Projekt**
 > 
-> Das Projekt wurde im Rahmen einer [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]] im Herbst 2023 begonnen und zunächst als **A [[70_Ressources/Terms/Digital Garden\|Digital Garden]]** unter der URL [https://muschelschale97.vercel.app](https://muschelschale97.vercel.app) begonnen.
-> Mit der Sicherung des Domainnamens **knowledge-garden.de** Ende November wurde das Projekt auf diese neue Domain transferiert.
+> Das Projekt wurde im Rahmen einer [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]] im Herbst 2023 begonnen und zunächst als **A [[70_Ressources/Terms/Digital Garden\|Digital Garden]]** unter der zwischenzeitlich nicht mehr erreichbaren URL [https://muschelschale97.vercel.app](https://muschelschale97.vercel.app) begonnen.
+> Mit der Sicherung des Domainnamens **knowledge-garden.de** Ende November 2023 wurde das Projekt auf diese neue Domain transferiert.
 > 
-> Das Projekt stellt ein e-Portfolio dar, welches auf der Basis meines Persönlichen Wissensmanagement Systems (PKM system) veröffentlicht wird. Dabei handelt es sich um Teilveröffentlichungen aus meinem Original-PKM. Wer ich bin findet sich unter [[00_Admin/_INDEX/Über mich\|Über mich]].
+> Das Projekt veröffentlicht jene Teile meines Persönlichen Wissensmanagement Systems (PKM system), die nicht allzu privat sind. Es handelt es sich also um Teilveröffentlichungen aus meinem Original-PKM. 
 > 
-> Es ist der Versuch, sich persönlich mit effizienten Techniken der Veröffentlichung von Ausschnitten aus dem eigenen PKM System[^1] auseinanderzusetzen und diese Techniken einzuüben.
-> 
-> Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Frage zu nähern, inwieweit neben Wordpress andere Techniken in den persönlichen Dauergebrauch übernommen werden können.   
+> Es ist der dabei Versuch, sich persönlich mit effizienten Techniken der Veröffentlichung von Ausschnitten aus dem eigenen PKM System[^1] auseinanderzusetzen und diese Techniken einzuüben.
+>  
+> Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Frage zu nähern, inwieweit neben Wordpress[^2] andere Techniken in den persönlichen Dauergebrauch übernommen werden können.   
 >    
-> Mein **knowledge garden** ist der öffentliche Teil meines **Kollektaneen-Buch**es, wie es bei [[09_Sources/Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.\|Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.]] beschrieben ist.
+> Man kann auch argumentieren, mein **knowledge garden** ist der **öffentliche Teil** meines **Kollektaneen-Buch**es, wie es bei [[09_Sources/Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.\|Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.]] beschrieben ist.
+> 
+> Wer ich bin findet sich unter [[00_Admin/_INDEX/Über mich\|Über mich]].
 >    
   
 > [!tip] Wie man mich erreicht.
@@ -27,3 +29,4 @@ by GGa, 2023-11-05T00:00:00.000+01:00
 > 
 
 [^1]: Das eigene PKM System meint hier eine Lokale Obsidian-Installation (siehe [Obsidian - Sharpen your thinking](https://obsidian.md/)) mit vielerlei Plugins, die täglich in Benutzung ist.
+[^2]: Neben Wordpress? Ja, ich betreibe noch ein zwei Blogs auf der Basis von Wordpress.
