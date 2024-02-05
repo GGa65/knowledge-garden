@@ -9,6 +9,9 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 
 | New                                                                                                                                                                                                          | Modified          | Ort                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---------------------- |
+| [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | February 05, 2024 | 70_Ressources/Terms    |
+| [[70_Ressources/Terms/BANI\|BANI]]                                                                                                                                                                        | February 05, 2024 | 70_Ressources/Terms    |
+| [[60_People/Jamais Cascio\|Jamais Cascio]]                                                                                                                                                                | February 05, 2024 | 60_People              |
 | [[10_Zettel/PARA\|PARA]]                                                                                                                                                                                  | February 05, 2024 | 10_Zettel              |
 | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]]                                                                                                                                                    | February 05, 2024 | 00_Admin/_INDEX        |
 | [[60_People/Gertrud von le Fort\|Gertrud von le Fort]]                                                                                                                                                    | February 04, 2024 | 60_People              |
@@ -36,9 +39,6 @@ Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierte
 | [[70_Ressources/Terms/Annual Contract Value ACV\|Annual Contract Value ACV]]                                                                                                                              | November 28, 2023 | 70_Ressources/Terms    |
 | [[70_Ressources/Terms/21st century skills\|21st century skills]]                                                                                                                                          | November 28, 2023 | 70_Ressources/Terms    |
 | [[10_Zettel/Embedding a Podcast\|Embedding a Podcast]]                                                                                                                                                    | November 28, 2023 | 10_Zettel              |
-| [[00_Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]                                                                                                                                                        | November 28, 2023 | 00_Admin/_INDEX        |
-| [[10_Zettel/PARA System\|PARA System]]                                                                                                                                                                    | November 27, 2023 | 10_Zettel              |
-| [[70_Ressources/Terms/VUCA\|VUCA]]                                                                                                                                                                        | November 26, 2023 | 70_Ressources/Terms    |
 
 { .block-language-dataview}
 
