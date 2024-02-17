@@ -16,8 +16,8 @@ by GGa, 2023-07-03T00:00:00.000+02:00
 > 	- Personen-Notizen tragen die Eigenschaft (Property) `#class/people` **und** 
 > 	- Personen-Notizen sind im Ordner `60_People` abgelegt
 > 	  
-> - Nur unter Einhaltung dieser Konventionen funktioniert das Verzeichnis der Personen [[Admin/_INDEX/MoC - People\|MoC - People]] 
-> - Für das Verzeichnis [[Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]] gilt eine zusätzliche Konvention:
+> - Nur unter Einhaltung dieser Konventionen funktioniert das Verzeichnis der Personen [[Atlas/INDIZEES/MoC - People\|MoC - People]] 
+> - Für das Verzeichnis [[Atlas/INDIZEES/MoC - Public Person's Index\|MoC - Public Person's Index]] gilt eine zusätzliche Konvention:
 > 	- die Eigenschaft (property) `dg-publish = true`
 >
 
