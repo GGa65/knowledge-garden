@@ -8,7 +8,7 @@ reworked 2024-01-07T14:21:42.044+01:00
 ### Gedanken zu KI
 
 - KI ist da und geht nicht mehr weg
-	- Ich erhärte diese Überlegung mal mit [[Christian Spannagel\|Christian Spannagel]], der in seinem Video "Vom ABC zu AI: KI in Schule und Unterricht" (https://www.youtube.com/watch?v=2Tt3j4QZsQo) formuliert:
+	- Ich erhärte diese Überlegung mal mit [[60_People/Christian Spannagel\|Christian Spannagel]], der in seinem Video "Vom ABC zu AI: KI in Schule und Unterricht" (https://www.youtube.com/watch?v=2Tt3j4QZsQo) formuliert:
 		- "KI ist in der Welt. Wir werden heute und in der Zukunft KI in alle möglichen Lebensbereichen benutzen. Und dann wäre es absurd, wenn wir es aus der Schule ausschließen würden."
 		- "Es geht ja gerade darum, Kinder und Jugendliche zu befähigen mit digitalen Werkzeugen, die ihnen im Alltag begegnen auch verständig und souverän und informiert umgehen zu können."
 - das ist der Grund (und Grund genug) sich mit ihr beschäftigen zu müssen. Und - hier ergänze ich aus eigenen Überlegungen:
@@ -28,6 +28,6 @@ Aus Sicht der Wirtschaft ist meine Forderung, dass Absolventen
 - einen bewussten Umgang mit KI an den Tag legen (man kennt immer neben den Potenzialen die möglichen Schwächen, oder hat zumindest die Kompetenz, sie sich zu erarbeiten)
 
 ---
-[[Christian Spannagel\|Christian Spannagel]] inspiriert:
+[[60_People/Christian Spannagel\|Christian Spannagel]] inspiriert:
 - "Wir leben in einer durch Digitalisierung geprägten Welt. Überall wirken Algorithmen um uns herum. Und wenn wir an eine Welt denken, in der Menschen nicht so genau wissen, was das ist, dann sind natürlich ... diejenigen, die wissen, wie sie Algorithmen für ihre eigenen Interessen einsetzen können, in der Lage Menschen zu manipulieren. Also **eine informatisch ungebildete Gesellschaft ist eine Gefahr für die Demokratie**."
 
