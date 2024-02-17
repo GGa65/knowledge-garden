@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
-| [[00_Admin/_INDEX/Über mich\|Über mich]] | [[00_Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
+| [[Admin/_INDEX/Über mich\|Über mich]] | [[Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
 
 
 # Public Home von knowledge-garden.de
@@ -29,31 +29,31 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 
 **ADMIN** (nicht alles ist öffentlich)
 - MoC - Ziele (public) #todo/follow-up dieser Punkt ist quasi "🚧 Under Construction 🚧"
-- **[[00_Admin/_INDEX/MoC - FOLLOW UP\|MoC - FOLLOW UP]]** `#todo/follow-up` - das Follow-Up-Verzeichnis[^3] meines PKM-Systems
-- **[[00_Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4] meines PKM Systems
+- **[[Admin/_INDEX/MoC - FOLLOW UP\|MoC - FOLLOW UP]]** `#todo/follow-up` - das Follow-Up-Verzeichnis[^3] meines PKM-Systems
+- **[[Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4] meines PKM Systems
 - 
 
 **PROJEKTE** 
 - **DIGITAL GARDEN**: 
-	- **[[00_Admin/_INDEX/MoC - Index Knowledge Garden public\|MoC - Index Knowledge Garden public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
-	- **[[00_Admin/_INDEX/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
+	- **[[Admin/_INDEX/MoC - Index Knowledge Garden public\|MoC - Index Knowledge Garden public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
+	- **[[Admin/_INDEX/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 - **BLOG(s)**
 	- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
 	- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
 - **Projekte allgemein**
-	- **[[00_Admin/_INDEX/MoC - Projekte\|MoC - Projekte]]**[^6] 
+	- **[[Admin/_INDEX/MoC - Projekte + Logbücher\|MoC - Projekte + Logbücher]]**[^6] 
 		- [[MoC - non-confidential projects\|MoC - non-confidential projects]][^7] 
 
 **ZETTELKASTEN / PKM** (nicht alles öffentlich)
-- **[[00_Admin/_INDEX/MoC - People\|MoC - People]]**[^8]
-	- [[00_Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
-- **[[00_Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
-- **[[00_Admin/_INDEX/MoC - Sources public\|MoC - Sources public]]** - ein Verzeichnis der im PKM-System gesammelten öffentlichen Quellen-Notizen
-- **[[00_Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
+- **[[Admin/_INDEX/MoC - People\|MoC - People]]**[^8]
+	- [[Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
+- **[[Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
+- **[[Admin/_INDEX/MoC - Sources public\|MoC - Sources public]]** - ein Verzeichnis der im PKM-System gesammelten öffentlichen Quellen-Notizen
+- **[[Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
 
 **LERNEN**
-- **[[00_Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
-- **[[00_Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]** - Ein Verzeichnis der von mir (mehr oder weniger regelmäßig) konsumierten Podcasts.  
+- **[[Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
+- **[[Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]** - Ein Verzeichnis der von mir (mehr oder weniger regelmäßig) konsumierten Podcasts.  
 
 
 
