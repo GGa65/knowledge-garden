@@ -14,10 +14,10 @@
 
 #### Nennungen im Vault
 `Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
-| Notiz                                                                  | Ort            | Erstellt          |
-| ---------------------------------------------------------------------- | -------------- | ----------------- |
-| [[Calendar/Daily/2023-05-14\|2023-05-14]]                           | Calendar/Daily | May 14, 2023      |
-| [[Calendar/2023-05-14 note of the day\|2023-05-14 note of the day]] | Calendar       | February 04, 2024 |
+| Notiz                                                                                            | Ort                                | Erstellt          |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------- | ----------------- |
+| [[Calendar/Daily/2023-05-14\|2023-05-14]]                                                     | Calendar/Daily                     | May 14, 2023      |
+| [[Calendar/Notes of the day - public/2023-05-14 note of the day\|2023-05-14 note of the day]] | Calendar/Notes of the day - public | February 04, 2024 |
 
 { .block-language-dataview}
 
