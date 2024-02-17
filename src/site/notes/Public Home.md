@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
-| [[Admin/_INDEX/Über mich\|Über mich]] | [[Admin/_INDEX/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
+| [[Atlas/Über mich\|Über mich]] | [[Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
 
 
 # Public Home von knowledge-garden.de
@@ -25,35 +25,35 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 - Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es eine Notiz genau zu dieser Frage: Unter **[[Whats new\|Whats new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s. 
 
 ## Content Sheet
-> [!success] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
+> [!sprout] Mein [[70_Ressources/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
 
 **ADMIN** (nicht alles ist öffentlich)
 - MoC - Ziele (public) #todo/follow-up dieser Punkt ist quasi "🚧 Under Construction 🚧"
-- **[[Admin/_INDEX/MoC - FOLLOW UP\|MoC - FOLLOW UP]]** `#todo/follow-up` - das Follow-Up-Verzeichnis[^3] meines PKM-Systems
-- **[[Admin/_INDEX/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4] meines PKM Systems
+- **[[Atlas/INDIZEES/MoC - FOLLOW UP\|MoC - FOLLOW UP]]** `#todo/follow-up` - das Follow-Up-Verzeichnis[^3] meines PKM-Systems
+- **[[Atlas/INDIZEES/MoC - TASKS\|MoC - TASKS]]** - das Aufgabenverzeichnis[^4] meines PKM Systems
 - 
 
 **PROJEKTE** 
 - **DIGITAL GARDEN**: 
-	- **[[Admin/_INDEX/MoC - Index Knowledge Garden public\|MoC - Index Knowledge Garden public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
-	- **[[Admin/_INDEX/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
+	- **[[Atlas/INDIZEES/MoC - Index Knowledge Garden public\|MoC - Index Knowledge Garden public]]** - der Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s[^5]
+	- **[[Atlas/INDIZEES/MoC - Public Outcome knowledge-garden.de\|MoC - Public Outcome knowledge-garden.de]]** - der Artikel-Index meines [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s
 - **BLOG(s)**
 	- **lebenslaenglich-lernen.de**: [Ein Lernen-Blog von Gerald G. (lebenslaenglich-lernen.de)](https://lebenslaenglich-lernen.de/)  
 	- **[Muschelschale97 ist GGa's Blog – "de omnibus dubitandum"](https://muschelschale97.de/)**
 - **Projekte allgemein**
-	- **[[Admin/_INDEX/MoC - Projekte + Logbücher\|MoC - Projekte + Logbücher]]**[^6] 
+	- **[[Atlas/INDIZEES/MoC - Projekte + Logbücher\|MoC - Projekte + Logbücher]]**[^6] 
 		- [[MoC - non-confidential projects\|MoC - non-confidential projects]][^7] 
 
 **ZETTELKASTEN / PKM** (nicht alles öffentlich)
-- **[[Admin/_INDEX/MoC - People\|MoC - People]]**[^8]
-	- [[Admin/_INDEX/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
-- **[[Admin/_INDEX/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
-- **[[Admin/_INDEX/MoC - Sources public\|MoC - Sources public]]** - ein Verzeichnis der im PKM-System gesammelten öffentlichen Quellen-Notizen
-- **[[Admin/_INDEX/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
+- **[[Atlas/INDIZEES/MoC - People\|MoC - People]]**[^8]
+	- [[Atlas/INDIZEES/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
+- **[[Atlas/INDIZEES/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
+- **[[Atlas/INDIZEES/MoC - Sources public\|MoC - Sources public]]** - ein Verzeichnis der im PKM-System gesammelten öffentlichen Quellen-Notizen
+- **[[Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
 
 **LERNEN**
-- **[[Admin/_INDEX/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
-- **[[Admin/_INDEX/MoC - Podcasts\|MoC - Podcasts]]** - Ein Verzeichnis der von mir (mehr oder weniger regelmäßig) konsumierten Podcasts.  
+- **[[Atlas/INDIZEES/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
+- **[[Atlas/INDIZEES/MoC - Podcasts\|MoC - Podcasts]]** - Ein Verzeichnis der von mir (mehr oder weniger regelmäßig) konsumierten Podcasts.  
 
 
 
