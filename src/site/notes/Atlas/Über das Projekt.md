@@ -6,7 +6,7 @@ by GGa, 2023-11-05T00:00:00.000+01:00
 
 > [!example]   **Über das Projekt**
 > 
-> Das Projekt wurde im Rahmen einer [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]] im Herbst 2023 begonnen und zunächst als **A [[70_Ressources/Terms/Digital Garden\|Digital Garden]]** unter der zwischenzeitlich nicht mehr erreichbaren URL [https://muschelschale97.vercel.app](https://muschelschale97.vercel.app) begonnen.
+> Das Projekt wurde im Rahmen einer [[Efforts/Notes/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]] im Herbst 2023 begonnen und zunächst als **A [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]]** unter der zwischenzeitlich nicht mehr erreichbaren URL [https://muschelschale97.vercel.app](https://muschelschale97.vercel.app) begonnen.
 > Mit der Sicherung des Domainnamens **knowledge-garden.de** Ende November 2023 wurde das Projekt auf diese neue Domain transferiert.
 > 
 > Das Projekt veröffentlicht jene Teile meines Persönlichen Wissensmanagement Systems (PKM system), die nicht allzu privat sind. Es handelt es sich also um Teilveröffentlichungen aus meinem Original-PKM. 
@@ -15,7 +15,7 @@ by GGa, 2023-11-05T00:00:00.000+01:00
 >  
 > Es ist darüber hinaus der Versuch, sich in einem längeren Selbstversuch der Frage zu nähern, inwieweit neben Wordpress[^2] andere Techniken in den persönlichen Dauergebrauch übernommen werden können.   
 >    
-> Man kann auch argumentieren, mein **knowledge garden** ist der **öffentliche Teil** meines **Kollektaneen-Buch**es, wie es bei [[09_Sources/Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.\|Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.]] beschrieben ist.
+> Man kann auch argumentieren, mein **knowledge garden** ist der **öffentliche Teil** meines **Kollektaneen-Buch**es, wie es bei [[Atlas/Notes/Sources/Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.\|Tiago Forte - Build your second brain - Summary#Harness the power of technology to turn information into knowledge.]] beschrieben ist.
 > 
 > Wer ich bin findet sich unter [[Atlas/Über mich\|Über mich]].
 >    
