@@ -7,7 +7,7 @@ by GGa, 2023-11-26T00:00:00.000+01:00
 > [!info] **Organisieren** Sie Ihre Bibliothek im [[10_Zettel/PARA System\|PARA System]] – vier breite Kategorien, die in abnehmender Dringlichkeit angeordnet sind.
 > 
 > - Das PARA System kommt innerhalb des ORGANIZE-Teils der [[10_Zettel/CODE method\|CODE method]] zum Tragen. 
->   (nach [[60_People/Tiago Forte\|Tiago Forte]]s Buch [[09_Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]) 
+>   (nach [[Atlas/Notes/People/Tiago Forte\|Tiago Forte]]s Buch [[Atlas/Notes/Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]) 
 >   
 
 -   **„Projekte (projects)“** – Informationen, die sich auf finite, kurzfristige Projekte mit klaren Zielen beziehen. Legen Sie für jedes arbeitsbezogene Projekt, jedes Nebenprojekt oder jedes persönliche Projekt einen Unterordner an.
