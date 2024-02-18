@@ -16,4 +16,4 @@ und er ist erfolgreich verlaufen.
 - im konkreten Fall gehe ich auf [Apple Postcasts](https://podcasts.apple.com/de/) und suche mir den entsprechenden einzubettenden Podcast aus, in diesen Fall [dieser](https://podcasts.apple.com/de/podcast/education-newscast/id1352307529)
 - und dann findet sich dort ein "Teilen-Button" , der sich zu einem kleinen Teilen-Optionen-Menue verwandelt, sobald man mit der Maus den Button berührt
 - und mit der Option "`</>`" bekommt man eine Kopie des einzubettenden Iframes in die Zwischenablage gespielt. Die fügt man an der gewünschten Stelle in der Obsitian-Notiz ein und fertig!
-- Und wie man hier auf [Embedding a Podcast (knowledge-garden.de)](https://www.knowledge-garden.de/10-zettel/embedding-a-podcast/) sieht, funktioniert das auch Ende-zu-Ende bis in die Veröffentlichung des [[70_Ressources/Terms/Digital Garden\|Digital Garden]]s im World-Wide-Web.
+- Und wie man hier auf [Embedding a Podcast (knowledge-garden.de)](https://www.knowledge-garden.de/10-zettel/embedding-a-podcast/) sieht, funktioniert das auch Ende-zu-Ende bis in die Veröffentlichung des [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s im World-Wide-Web.
