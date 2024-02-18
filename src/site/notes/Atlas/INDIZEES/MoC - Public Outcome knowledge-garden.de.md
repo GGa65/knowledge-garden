@@ -6,14 +6,14 @@
 
 ```#class/outcome and dg-publish = true```
 
-| Notiz                                                                                                                            | Ort          | Erstellt          |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------- |
-| [[80_outcome/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                         | 80_outcome   | October 15, 2023  |
-| [[80_outcome/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                               | 80_outcome   | April 15, 2023    |
-| [[80_outcome/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                       | 80_outcome   | October 15, 2023  |
-| [[80_outcome/LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE\|LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE]]                         | 80_outcome   | October 15, 2023  |
-| [[80_outcome/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]] | 80_outcome   | October 15, 2023  |
-| [[81_gardening/Gedanken zu KI\|Gedanken zu KI]]                                                                               | 81_gardening | November 19, 2023 |
-| [[81_gardening/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                         | 81_gardening | November 05, 2023 |
+| Notiz                                                                                                                               | Ort           | Erstellt          |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
+| [[Efforts/Notes/Der Begriff des Portfolios\|Der Begriff des Portfolios]]                                                         | Efforts/Notes | October 15, 2023  |
+| [[Efforts/Notes/Gedanken zu 21st century skills\|Gedanken zu 21st century skills]]                                               | Efforts/Notes | April 15, 2023    |
+| [[Efforts/Notes/Gedanken zu KI\|Gedanken zu KI]]                                                                                 | Efforts/Notes | November 19, 2023 |
+| [[Efforts/Notes/Lernreise Digitale Zusammenarbeit\|Lernreise Digitale Zusammenarbeit]]                                           | Efforts/Notes | November 05, 2023 |
+| [[Efforts/Notes/Lernreise über E-Portfolios\|Lernreise über E-Portfolios]]                                                       | Efforts/Notes | October 15, 2023  |
+| [[Efforts/Notes/LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE\|LITERATURLISTE IM KONTEXT PORTFOLIOMETHODE]]                         | Efforts/Notes | October 15, 2023  |
+| [[Efforts/Notes/Portfolio-Methode - eine Annäherung an eine Definition\|Portfolio-Methode - eine Annäherung an eine Definition]] | Efforts/Notes | October 15, 2023  |
 
 { .block-language-dataview}
