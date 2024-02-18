@@ -6,7 +6,7 @@ by GGa, 2023-11-26T00:00:00.000+01:00
 
 > [!info] To build your Second Brain, follow the four-step [[10_Zettel/CODE method\|CODE method]]: capture, organize, distill and express.
 > 
-> The CODE Method encapsulates in its part "ORGANIZE" [[60_People/Tiago Forte\|Tiago Forte]]s [[10_Zettel/PARA System\|PARA System]]  
+> The CODE Method encapsulates in its part "ORGANIZE" [[Atlas/Notes/People/Tiago Forte\|Tiago Forte]]s [[10_Zettel/PARA System\|PARA System]]  
 
 ### Capture knowledge assets, following your intuition and curiosity.
 When sifting through information online – be it watching videos or scrolling through social media – see yourself as a curator of a personal library. Just as a lawyer maintains a case file or a marketer assembles a swipe book, capture anything you deem noteworthy. Nourish your mind by consciously choosing your “information diet” – that is, being mindful of the content you consume. Plant a “knowledge garden” by collecting valuable “knowledge assets,” including thought-provoking passages from articles or books, quotes from podcasts or audiobooks, links to interesting online content, voice memos, meeting notes, images that grab your attention or inspire you, highlights from conferences and courses you’ve attended, and so on. Collecting these external sources of information may inspire you to create stories, spark epiphanies, and help you recall memories, think deeply and daydream. You should file these thoughts and ideas in your Second Brain, too.
