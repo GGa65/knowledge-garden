@@ -16,6 +16,7 @@ by GGa, 2023-04-03T00:00:00.000+02:00
 { .block-language-dataview}
 | Notiz                                                                                                                       | Ort                 | Erstellt          |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ----------------- |
+| [[10_Zettel/ACE\|ACE]]                                                                                                   | 10_Zettel           | February 19, 2024 |
 | [[10_Zettel/CODE\|CODE]]                                                                                                 | 10_Zettel           | April 02, 2023    |
 | [[10_Zettel/CODE method\|CODE method]]                                                                                   | 10_Zettel           | November 26, 2023 |
 | [[Home\|Home]]                                                                                                           |                     | April 24, 2023    |
