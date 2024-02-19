@@ -14,11 +14,11 @@
 
 
 **TAF 1 - Datensparsame Tarife** Bezieht sich auf Verbrauchsabrechnungen: Die Messdaten eines oder mehrerer Zähler werden aufaddiert und als ein Zählerstand versendet, minimaler Zeitraum ist ein Monat.
-- [[70_Ressources/PDF-DOCS/TR03109-1.pdf#page=80&selection=36,0,65,0|TR03109-1, page 74]] sagt mir in Zusammenhang mit [[70_Ressources/PDF-DOCS/TR03109-1.pdf#page=81&selection=77,0,83,41|TR03109-1, page 75]] für die Implementierung, es geht um die Bereitstellung von **genau einem** Messwert, der für einen Zeitraum von einem Monat zu erheben ist, es dürfen Zeiträume von Vielfachen eines Monats definiert werden.[^1] 
+- [[TR03109-1.pdf#page=80&selection=36,0,65,0|TR03109-1, page 74]] sagt mir in Zusammenhang mit [[TR03109-1.pdf#page=81&selection=77,0,83,41|TR03109-1, page 75]] für die Implementierung, es geht um die Bereitstellung von **genau einem** Messwert, der für einen Zeitraum von einem Monat zu erheben ist, es dürfen Zeiträume von Vielfachen eines Monats definiert werden.[^1] 
 - Die Logik birgt die Conclusio, dass hier im SMGW ein Register zu bilden ist, welches das Quellregister der modernen Messeinrichtung als einen Wert in die angeforderte zeitliche Rasterung fortschreibt.
 
 **TAF 2 - Zeitvariable Tarife** Zeitabhängiger Stromtarif mit mehreren Tarifstufen (vgl. Hoch-/Niedertarife).
-- [[70_Ressources/PDF-DOCS/TR03109-1.pdf#page=82&selection=27,0,74,17|TR03109-1, page 76]] sagt mir für die die Implementierung, dass neben den **zeitabhängige**n **Register**n sowohl ein **mitlaufendes Fehlerregister** als auch ein **mitlaufendes Gesamtregister** zu bilden sind.
+- [[TR03109-1.pdf#page=82&selection=27,0,74,17|TR03109-1, page 76]] sagt mir für die die Implementierung, dass neben den **zeitabhängige**n **Register**n sowohl ein **mitlaufendes Fehlerregister** als auch ein **mitlaufendes Gesamtregister** zu bilden sind.
 
 **TAF 3 - Lastvariable Tarife** Lastabhängiger Stromtarif mit mehreren Laststufen.
 
