@@ -21,7 +21,7 @@ Die Lernreise haben nun drei Lernbegeisterte im Spätsommer 2023 - nach der ganz
 	- die TeilnehmerInnen haben sich auf https://web.peerfinder.app/ gefunden
 	- wir sind zu dritt
 	- wir nutzen ein *gemeinsames Miro Board* für die gegenseitige Information und die Dokumentation unserer gemeinsamen treffen
-	- jeder nutzt seine *individuell verfügbaren Publishing-Werkzeuge* (Blog auf Wordpress bzw. Hugo, GitHub, oder eben dieser Digital Garden)
+	- jeder nutzt seine *individuell verfügbaren Publishing-Werkzeuge* (Blog auf Wordpress bzw. Hugo, GitHub, oder eben dieser [Digital Garden](https://knowledge-garden.de))
 	- 💡 Hier könnte ich in Absprache mit meinen beiden Mitstreitern BL und GK in Erwägung ziehen auf deren e-Portfolios zu verlinken. #idee - aber dazu muss ich Rücksprache halten. 
 
 ## Zum Inhalt
