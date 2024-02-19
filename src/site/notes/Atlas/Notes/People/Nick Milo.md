@@ -38,6 +38,7 @@ Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" v
 | Notiz                                                 | Ort                 | Erstellt          |
 | ----------------------------------------------------- | ------------------- | ----------------- |
 | [[Calendar/+About Calendar\|+About Calendar]]      | Calendar            | February 17, 2024 |
+| [[10_Zettel/ACE\|ACE]]                             | 10_Zettel           | February 19, 2024 |
 | [[Home\|Home]]                                     |                     | April 24, 2023    |
 | [[Admin/Home\|Home]]                               | Admin               | November 07, 2023 |
 | [[Admin/00 VAULT Doku/Konzept Tags\|Konzept Tags]] | Admin/00 VAULT Doku | April 19, 2023    |
