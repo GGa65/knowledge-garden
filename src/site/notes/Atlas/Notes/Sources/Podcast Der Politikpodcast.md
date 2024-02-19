@@ -13,8 +13,8 @@
 ## Notizen zu Folgen dieses Podcasts
 | Notiz                                                                                                                                   | Ort                 | Typ                       | Veröffentlicht |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------- | -------------- |
-| [[Atlas/Notes/Sources/345 - Grüner Parteitag im Spagat\|345 - Grüner Parteitag im Spagat]]                                           | Atlas/Notes/Sources | <ul><li>Podcast</li></ul> | true           |
 | [[Atlas/Notes/Sources/351 - Rechtsextreme - Deutschland sucht das Gegengift\|351 - Rechtsextreme - Deutschland sucht das Gegengift]] | Atlas/Notes/Sources | <ul><li>Podcast</li></ul> | \-             |
+| [[Atlas/Notes/Sources/345 - Grüner Parteitag im Spagat\|345 - Grüner Parteitag im Spagat]]                                           | Atlas/Notes/Sources | <ul><li>Podcast</li></ul> | true           |
 
 { .block-language-dataview}
 
