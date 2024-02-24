@@ -26,7 +26,7 @@ According to _The New York Times,_ the average person consumes the equivalent 
 
 Your Second Brain is a collection of tools – a to-do list, a digital calendar, a reading app, and more. But the “neural center” of your Second Brain is a note-taking app. Choose a note-taking app that best serves your needs: Notion, Evernote, Apple Notes, Microsoft OneNote or Google Keep, for example. The best note-taking apps are capable of storing media in various formats. They are messy and informal idea boards that allow your thoughts to incubate, bloom and grow. They act as open and unrestricted spaces for free-flowing ideas. Their goal is not to deliver any output. They aren’t exact, polished or precise; rather, they are tools to help hone your focus.
 
-To build your Second Brain, follow the four-step [[10_Zettel/CODE method\|CODE method]]: capture, organize, distill and express. ... (dive deeper by following the link, and come back afterwards)
+To build your Second Brain, follow the four-step [[Atlas/Notes/Ideas+Notes/Die CODE Methodik nach Forte 2023\|Die CODE Methodik nach Forte 2023]]: capture, organize, distill and express. ... (dive deeper by following the link, and come back afterwards)
 
 ### When your creativity dries up, build momentum by collecting ideas, leveraging yesterday’s momentum and starting small.
 
