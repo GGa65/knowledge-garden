@@ -40,7 +40,6 @@ Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" v
 | [[Calendar/+About Calendar\|+About Calendar]]      | Calendar            | February 17, 2024 |
 | [[Atlas/Notes/Terms/ACE\|ACE]]                     | Atlas/Notes/Terms   | February 19, 2024 |
 | [[Home\|Home]]                                     |                     | April 24, 2023    |
-| [[Admin/Home\|Home]]                               | Admin               | November 07, 2023 |
 | [[Admin/00 VAULT Doku/Konzept Tags\|Konzept Tags]] | Admin/00 VAULT Doku | April 19, 2023    |
 | [[10_Zettel/LYT approach\|LYT approach]]           | 10_Zettel           | April 26, 2023    |
 | [[Public Home\|Public Home]]                       |                     | November 05, 2023 |
