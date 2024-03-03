@@ -12,7 +12,7 @@ by GGa, 2023-11-06T00:00:00.000+01:00
 	- begeisterte Mutter von vier Kindern, 
 	- langjährig leidendes CDU-Mitglied und 
 	- weibliche Feministin. 
-- Dazwischen neigt sie chronisch dazu, ihre Gedanken frei auszusprechen und sehr zum Leidwesen gendersensibler Bevölkerungsgruppen auch dazu, diese aufzuschreiben.
+- "Dazwischen neigt sie chronisch dazu, ihre Gedanken frei auszusprechen und sehr zum Leidwesen gendersensibler Bevölkerungsgruppen auch dazu, diese aufzuschreiben."
 (Quelle: https://vollekelle.de/ueber-mich/)
 
 #### Nennungen im Vault
