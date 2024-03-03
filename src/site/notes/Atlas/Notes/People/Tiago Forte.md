@@ -20,7 +20,6 @@ by GGa, 2023-04-03T00:00:00.000+02:00
 | [[Atlas/Notes/Terms/CODE\|CODE]]                                                                                         | Atlas/Notes/Terms       | April 02, 2023    |
 | [[Atlas/Notes/Ideas+Notes/Die CODE Methodik nach Forte 2023\|Die CODE Methodik nach Forte 2023]]                         | Atlas/Notes/Ideas+Notes | November 26, 2023 |
 | [[Home\|Home]]                                                                                                           |                         | April 24, 2023    |
-| [[Admin/Home\|Home]]                                                                                                     | Admin                   | November 07, 2023 |
 | [[10_Zettel/PARA\|PARA]]                                                                                                 | 10_Zettel               | February 05, 2024 |
 | [[10_Zettel/PARA und LYT Gemisch\|PARA und LYT Gemisch]]                                                                 | 10_Zettel               | May 11, 2023      |
 | [[Atlas/Notes/Ideas+Notes/PARA-System\|PARA-System]]                                                                     | Atlas/Notes/Ideas+Notes | November 26, 2023 |
