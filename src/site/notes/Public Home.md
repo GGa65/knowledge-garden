@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
 ---
 
 | [[Atlas/Über mich\|Über mich]] | [[Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
