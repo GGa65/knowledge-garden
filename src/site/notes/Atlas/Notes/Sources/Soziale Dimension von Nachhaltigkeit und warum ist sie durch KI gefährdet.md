@@ -26,9 +26,9 @@
 - den 17 Nachhaltigkeitszielen (sustainable development goals der UN) gegenübergestellt:
 	- 7 der 17 SDG sind sozialer Art
 	- keines dieser 7 SDG wird durch KI in einen verbesserten Zielerreichungsgrad versetzt, eher ist das Gegenteil der Fall
-	- ![Pasted image 20231231125616.png](/img/user/70_Ressources/pasted_assets/Pasted%20image%2020231231125616.png)
-	- ![Pasted image 20231231125719.png](/img/user/70_Ressources/pasted_assets/Pasted%20image%2020231231125719.png)
-	- 😢 ![Pasted image 20231231125846.png](/img/user/70_Ressources/pasted_assets/Pasted%20image%2020231231125846.png)
+	- ![Pasted image 20231231125616.png](/img/user/Atlas/Tools/Images/Pasted%20image%2020231231125616.png)
+	- ![Pasted image 20231231125719.png](/img/user/Atlas/Tools/Images/Pasted%20image%2020231231125719.png)
+	- 😢 ![Pasted image 20231231125846.png](/img/user/Atlas/Tools/Images/Pasted%20image%2020231231125846.png)
 
 - Digitalisierung und Klimawandel sind die großen Probleme unserer Zeit
 	- und wir alle sind gemeinsam kollektiv verantwortlich
