@@ -28,7 +28,7 @@ Die Public Home Notiz ist demnach der **zentrale Einstiegspunkt** in meinen **ve
 ## [[What's new\|What's new]] 
 
 
-Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es eine Notiz genau zu dieser Frage: Unter **[[What's new\|What's new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, siht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge sortiert oder wie auf einer gut sortierten Website nach Themen oder anderen Schubladen sortiert.
+Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu hier?** gibt es eine Notiz genau zu dieser Frage: Unter **[[What's new\|What's new]]** findet sich eine Aufstellung der letzten 30 **neu hinzugefügten** beziehungsweise **modifizierten** Notizen meines [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]]s. Denn gerade weil es ein Garten ist, sieht man nicht immer sofort, was neu hervorsprießt. Es ist nicht wie in einem Blog in historischer Reihenfolge oder wie auf einer gut geordneten Website nach Themen oder anderen Schubladen sortiert.
 
 ## Content Sheet
 > [!sprout] Mein [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]] strukturiert sich wie folgt:
@@ -56,6 +56,7 @@ Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu
 - **[[Atlas/INDIZEES/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
 - **[[Atlas/INDIZEES/MoC - Sources public\|MoC - Sources public]]** - ein Verzeichnis der im PKM-System gesammelten öffentlichen Quellen-Notizen
 - **[[Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
+- **[[Atlas/INDIZEES/MoC Zitate\|MoC Zitate]]** - ein Index über in meinem [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]] gesammelte Zitat-Notizen.
 
 **LERNEN**
 - **[[Atlas/INDIZEES/MoC - Lernreisen\|MoC - Lernreisen]]** - ein Verzeichnis meiner Lernpfade
