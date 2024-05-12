@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/gedanken-zu-21st-century-skills/","tags":["class/note","class/outcome"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/gedanken-zu-21st-century-skills/","tags":["class/note","class/outcome","note/settled🧱"],"noteIcon":""}
 ---
 
 by GGa, 2023-04-15T00:00:00.000+02:00   
