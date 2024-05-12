@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/podcast-mittelweg-36/","noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/sources/podcast-mittelweg-36/","tags":["class/sourceNote","subclass/podcast"],"noteIcon":""}
 ---
 
 ### Podcast Mittelweg 36 
