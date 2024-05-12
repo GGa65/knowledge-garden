@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/der-begriff-des-portfolios/","tags":["class/outcome","on/ePortfolio"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/der-begriff-des-portfolios/","tags":["class/outcome","on/ePortfolio","note/settled🧱"],"noteIcon":""}
 ---
 
 by GGa, 2023-10-15T00:00:00.000+02:00 
