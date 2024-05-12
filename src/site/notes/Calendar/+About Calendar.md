@@ -4,9 +4,11 @@
 
 All unsere Erlebnisse, Erfolge, Misserfolge, Ideen, Gedanken hängen an einem *universellen Konzept*, dass wir **Zeit** nennen. Das Konzept der Zeit lässt alles miteinander zusammenhängen, Ideen können basierend auf anderen Ideen entstehen, aber nur wenn die eine Idee vor der anderen entstand und sie im Moment des Entstehend der neuen Idee bekannt war. Aufeinander basieren können ideen nur unter dieser Voraussetzung.
 
-Alles hat einen oder bezieht sich auf oder gehört zu einem Zeitpunkt. So auch unsere Notizen. Und doch sind nicht alle Notizen im Kontext der Zeit zu verwalten.
+Alles hat einen Bezug zur Zeit oder bezieht sich auf oder gehört zu einem Zeitpunkt. So auch unsere Notizen. 
+Und doch sind nicht alle Notizen im Kontext der Zeit zu verwalten. (siehe auch, in Abgrenzung hierzu, [[Efforts/+About Efforts\|+About Efforts]] und [[Atlas/+About Atlas\|+About Atlas]])
 
-Der Ordner "Calender" vereint alles was - frei nach [[Atlas/Notes/People/Nick Milo\|Nick Milo]] - unter der Überschrift "time-stamped" Notizen subsummiert werden und damit im Kontext von Zeit verwaltet kann.  
+> [!calendar] Der Ordner "Calendar" ...
+> ... **vereint alles, was** - nach [[Atlas/Notes/People/Nick Milo\|Nick Milo]] - unter **"time-stamped"**-Notizen subsummiert werden und damit **im Kontext von Zeit verwaltet kann**.  
 
 Dazu gehören:
 - **Daily Notes** 
@@ -15,6 +17,7 @@ Dazu gehören:
 aber auch: 
 - **Meeting Notes**
 - und **Notes of the Day**
+- oder einfach mit Bezug *zu einem Datum erfasste* noch nicht finalisierte *Flüchtige Notizen*
 
 > [!sparkles] Verständnishinweis
 > Dass **alle diese oben genannten Notiztypen**, bis auf die *Notes of the Day* persönlicher Natur sind und daher **nicht veröffentlicht werden**, versteht sich vielleicht von selbst. 
