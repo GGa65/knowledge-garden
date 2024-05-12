@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/gedanken-zu-ki/","tags":["class/outcome"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/gedanken-zu-ki/","tags":["class/outcome","note/settled🧱"],"noteIcon":""}
 ---
 
 by GGa, 2023-11-19T00:00:00.000+01:00  
-reworked 2024-03-03T12:04:37.965+01:00
+reworked 2024-03-04T16:44:58.754+01:00
 
 ### Gedanken zu KI
 
