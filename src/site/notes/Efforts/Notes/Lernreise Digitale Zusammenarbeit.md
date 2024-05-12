@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/lernreise-digitale-zusammenarbeit/","tags":["class/outcome","class/note","class/lernreise"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/lernreise-digitale-zusammenarbeit/","tags":["class/outcome","class/note","class/lernreise","note/settled🧱"],"noteIcon":""}
 ---
 
 by GGa, 2023-11-05T00:00:00.000+01:00  
