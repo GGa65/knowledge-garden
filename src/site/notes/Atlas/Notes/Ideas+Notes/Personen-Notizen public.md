@@ -28,6 +28,7 @@ by GGa, 2024-03-03T00:00:00.000+01:00
 | [[Atlas/Notes/People/Anne-Laure Le Cunff\|Anne-Laure Le Cunff]]           | Atlas/Notes/People | July 27, 2023     |
 | [[Atlas/Notes/People/Birgit Kelle\|Birgit Kelle]]                         | Atlas/Notes/People | November 06, 2023 |
 | [[Atlas/Notes/People/Bruno Schönfelder\|Bruno Schönfelder]]               | Atlas/Notes/People | February 10, 2024 |
+| [[Atlas/Notes/People/Frithjof Bergmann\|Frithjof Bergmann]]               | Atlas/Notes/People | March 02, 2024    |
 | [[Atlas/Notes/People/Gertrud von le Fort\|Gertrud von le Fort]]           | Atlas/Notes/People | February 04, 2024 |
 | [[Atlas/Notes/People/Hans Magnus Enzensberger\|Hans Magnus Enzensberger]] | Atlas/Notes/People | February 24, 2024 |
 | [[Atlas/Notes/People/Jamais Cascio\|Jamais Cascio]]                       | Atlas/Notes/People | February 05, 2024 |
