@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/public-home/","tags":["class/index","gardenEntry"],"noteIcon":""}
 ---
 
 | [[Atlas/Über mich\|Über mich]] | [[Atlas/Über das Projekt\|Über das Projekt]] | [Ich auf Mastodon](https://colearn.social/@gg) |
@@ -54,7 +54,8 @@ Damit wiederkehrende Leser einen Überblick bekommen können über **Was ist neu
 - **[[Atlas/INDIZEES/MoC - People\|MoC - People]]**[^8]
 	- [[Atlas/INDIZEES/MoC - Public Person's Index\|MoC - Public Person's Index]][^9]
 - **[[Atlas/INDIZEES/MoC - Domains\|MoC - Domains]]** - ein Verzeichnis auf die Ontologie im PKM-System
-- **[[Atlas/INDIZEES/MoC - Sources public\|MoC - Sources public]]** - ein Verzeichnis der im PKM-System gesammelten öffentlichen Quellen-Notizen
+- **Mein [[Atlas/Notes/Ideas+Notes/Source-Note public\|Source-Note public]]-Verzeichnis
+	- daneben gibt es in meinem Vault ein privates *Source Note Verzeichnis* 😉
 - **[[Atlas/INDIZEES/MoC - public Terms\|MoC - public Terms]]** - eine noch zu verarbeitende Idee #todo/follow-up "🚧 Under Construction 🚧"
 - **[[Atlas/INDIZEES/MoC Zitate\|MoC Zitate]]** - ein Index über in meinem [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]] gesammelte Zitat-Notizen.
 
