@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/276-mapping-als-magische-lernmethode-des-smart-learning-designs-mit-sirkka-freigang/","tags":["class/sourceNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/sources/276-mapping-als-magische-lernmethode-des-smart-learning-designs-mit-sirkka-freigang/","tags":["class/sourceNote","subclass/podcast"],"noteIcon":""}
 ---
 
 ### 276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang
