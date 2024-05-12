@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/345-gruener-parteitag-im-spagat/","tags":["class/sourceNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/sources/345-gruener-parteitag-im-spagat/","tags":["class/sourceNote","subclass/podcast"],"noteIcon":""}
 ---
 
 ### 345 - Grüner Parteitag im Spagat 
