@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/portfolio-methode-eine-annaeherung-an-eine-definition/","tags":["class/outcome"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/portfolio-methode-eine-annaeherung-an-eine-definition/","tags":["class/outcome","note/settled🧱"],"noteIcon":""}
 ---
 
 Querverweis: initial veröffentlicht unter https://lebenslaenglich-lernen.de/2023/10/08/portfolio-methode-eine-annaeherung-an-eine-definition/ 
