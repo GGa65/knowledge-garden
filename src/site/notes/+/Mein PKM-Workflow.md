@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//mein-pkm-workflow/","tags":["class/note"],"noteIcon":""}
+{"dg-publish":true,"permalink":"//mein-pkm-workflow/","tags":["class/note","note/develop🍃"],"noteIcon":""}
 ---
 
 
