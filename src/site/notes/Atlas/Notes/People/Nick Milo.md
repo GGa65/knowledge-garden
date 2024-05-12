@@ -37,7 +37,9 @@ Der letzte Spiegelstrich bekommt von mir das Attribut "#attribut/rolling_eyes" v
 `Im Dataview Code bei FROM [[this file name]] den FileNamen dieses Files eintragen` 
 | Notiz                                                 | Ort                 | Erstellt          |
 | ----------------------------------------------------- | ------------------- | ----------------- |
+| [[Atlas/+About Atlas\|+About Atlas]]               | Atlas               | March 04, 2024    |
 | [[Calendar/+About Calendar\|+About Calendar]]      | Calendar            | February 17, 2024 |
+| [[Efforts/+About Efforts\|+About Efforts]]         | Efforts             | February 17, 2024 |
 | [[Atlas/Notes/Terms/ACE\|ACE]]                     | Atlas/Notes/Terms   | February 19, 2024 |
 | [[Home\|Home]]                                     |                     | April 24, 2023    |
 | [[Admin/00 VAULT Doku/Konzept Tags\|Konzept Tags]] | Admin/00 VAULT Doku | April 19, 2023    |
