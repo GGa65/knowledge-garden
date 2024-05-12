@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/podcast-der-politikpodcast/","tags":["class/sourceNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/sources/podcast-der-politikpodcast/","tags":["class/sourceNote","subclass/podcast"],"noteIcon":""}
 ---
 
 
