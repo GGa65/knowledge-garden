@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/2023-02-26-die-zensierten-kohl-protokolle-ein-blog-von-muschelschale97-in-themen/","title":"Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen","noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/2023-02-26-die-zensierten-kohl-protokolle-ein-blog-von-muschelschale97-in-themen/","title":"Die zensierten Kohl-Protokolle – Ein Blog von Muschelschale97 in Themen","tags":["class/outcome","note/settled🧱"],"noteIcon":""}
 ---
 
 
