@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/notes/lernreise-ueber-e-portfolios/","tags":["class/outcome","on/ePortfolio","class/lernreise"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/efforts/notes/lernreise-ueber-e-portfolios/","tags":["class/outcome","on/ePortfolio","class/lernreise","note/settled🧱"],"noteIcon":""}
 ---
 
 by GGa, 2023-10-15T00:00:00.000+02:00 
