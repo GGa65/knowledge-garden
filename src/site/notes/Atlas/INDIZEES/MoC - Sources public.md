@@ -8,6 +8,7 @@
 
 | Notiz                                                                                                                                                                                                                 | Ort                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Atlas/Notes/Sources/Podcast Mittelweg 36\|Podcast Mittelweg 36]]                                                                                                                                                 | Atlas/Notes/Sources |
 | [[Atlas/Notes/Sources/Braucht es Regeln für Liebe im Kabinett\|Braucht es Regeln für Liebe im Kabinett]]                                                                                                           | Atlas/Notes/Sources |
 | [[Atlas/Notes/Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]]                                       | Atlas/Notes/Sources |
 | [[Atlas/Notes/Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | Atlas/Notes/Sources |
