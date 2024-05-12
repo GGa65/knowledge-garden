@@ -20,6 +20,7 @@
 | [[Atlas/Notes/Sources/Braucht es Regeln für Liebe im Kabinett\|Braucht es Regeln für Liebe im Kabinett]]                                                                                                           | Atlas/Notes/Sources | January 06, 2024  |
 | [[Atlas/Notes/Sources/Podcast Der Politikpodcast\|Podcast Der Politikpodcast]]                                                                                                                                     | Atlas/Notes/Sources | November 28, 2023 |
 | [[Atlas/Notes/Sources/Podcast Education NewsCast\|Podcast Education NewsCast]]                                                                                                                                     | Atlas/Notes/Sources | November 30, 2023 |
+| [[Atlas/Notes/Sources/Podcast Mittelweg 36\|Podcast Mittelweg 36]]                                                                                                                                                 | Atlas/Notes/Sources | January 18, 2024  |
 | [[Atlas/Notes/Sources/Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet\|Soziale Dimension von Nachhaltigkeit und warum ist sie durch KI gefährdet]]                                       | Atlas/Notes/Sources | December 31, 2023 |
 | [[Atlas/Notes/Sources/Tiago Forte - Nutzen Sie Ihr zweites Gehirn\|Tiago Forte - Nutzen Sie Ihr zweites Gehirn]]                                                                                                   | Atlas/Notes/Sources | November 06, 2023 |
 
