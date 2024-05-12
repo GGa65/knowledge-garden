@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/terms/21st-century-skills/","tags":["class/termNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/terms/21st-century-skills/","tags":["class/termNote","note/settled🧱"],"noteIcon":""}
 ---
+
 
 
 > [!tip] 21st century skills
