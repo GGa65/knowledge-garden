@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/274-kuenstliche-intelligenz-und-weiterbildung-entzauberte-mythen-und-praktische-anwendung/","tags":["class/sourceNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/sources/274-kuenstliche-intelligenz-und-weiterbildung-entzauberte-mythen-und-praktische-anwendung/","tags":["class/sourceNote","subclass/podcast"],"noteIcon":""}
 ---
 
 ### 274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung 
