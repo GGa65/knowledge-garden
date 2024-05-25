@@ -8,7 +8,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-$<div class="markdown-embed-title">
+<div class="markdown-embed-title">
 
 # 1020
 
