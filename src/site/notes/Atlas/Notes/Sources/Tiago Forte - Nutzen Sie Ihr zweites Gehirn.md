@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/tiago-forte-nutzen-sie-ihr-zweites-gehirn/","tags":["class/sourceNote"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/atlas/notes/sources/tiago-forte-nutzen-sie-ihr-zweites-gehirn/","tags":["class/sourceNote","📚Book"],"noteIcon":""}
 ---
 
-by GGa, 2023-11-06T00:00:00.000+01:00 (zuletzt bearbeitet: 2023-11-26T00:00:00.000+01:00)  
+by GGa, 2023-11-06T00:00:00.000+01:00 (zuletzt bearbeitet: 2024-05-19T00:00:00.000+02:00)  
  
 #### Tiago Forte - Nutzen Sie Ihr zweites Gehirn
 
