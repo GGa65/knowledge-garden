@@ -17,6 +17,5 @@ by GGa, 2023-07-02T00:00:00.000+02:00
 | ----------------------------------------------------------------------------------------------- | --------- | ---------------- |
 | [[10_Zettel/Annotation Wurzeln der Portfolioarbeit\|Annotation Wurzeln der Portfolioarbeit]] | 10_Zettel | October 14, 2023 |
 | [[10_Zettel/The Product Book - Highlights\|The Product Book - Highlights]]                   | 10_Zettel | June 04, 2023    |
-| [[10_Zettel/Winter nach Mark Twain\|Winter nach Mark Twain]]                                 | 10_Zettel | April 02, 2023   |
 
 { .block-language-dataview}
