@@ -12,10 +12,9 @@
 > Der Podcast zu News, Trends, Grundlagen zu den Themen Weiterbildung, Training, Corporate Learning, New Work. Der Education Podcast berichtet dabei von Erfahrungen in der Personalentwicklung in Firmen, öffentlichen Einrichtungen und gelegentlich auch speziell mit SAP Schulung.
 
 ### Notizen zu Folgen dieses Podcasts
-| Notiz                                                                                                                                                                                                                 | Ort                 | Typ                       | Veröffentlicht |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------- | -------------- |
-| [[Atlas/Notes/Sources/274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung\|274 - Künstliche Intelligenz und Weiterbildung - Entzauberte Mythen und praktische Anwendung]] | Atlas/Notes/Sources | <ul><li>Podcast</li></ul> | true           |
-| [[Atlas/Notes/Sources/276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang\|276 – Mapping als magische Lernmethode des Smart Learning Designs mit Sirkka Freigang]]               | Atlas/Notes/Sources | <ul><li>Podcast</li></ul> | true           |
+| Notiz | Ort | Typ | Veröffentlicht |
+| ----- | --- | --- | -------------- |
 
 { .block-language-dataview}
+
 
