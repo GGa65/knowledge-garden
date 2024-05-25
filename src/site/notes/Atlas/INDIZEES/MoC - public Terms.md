@@ -14,6 +14,7 @@
 | [[Atlas/Notes/Terms/Deckungsbeitrag\|Deckungsbeitrag]]                     | Atlas/Notes/Terms | May 19, 2023      |
 | [[Atlas/Notes/Terms/Digital Garden\|Digital Garden]]                       | Atlas/Notes/Terms | November 06, 2023 |
 | [[Atlas/Notes/Terms/Frausein\|Frausein]]                                   | Atlas/Notes/Terms | November 06, 2023 |
+| [[Atlas/Notes/Terms/Monopolsparten\|Monopolsparten]]                       | Atlas/Notes/Terms | May 22, 2024      |
 | [[Atlas/Notes/Terms/Tarifanwendungsfälle TAF\|Tarifanwendungsfälle TAF]]   | Atlas/Notes/Terms | December 02, 2023 |
 | [[Atlas/Notes/Terms/VUCA\|VUCA]]                                           | Atlas/Notes/Terms | November 19, 2023 |
 | [[Atlas/Notes/Terms/Zweites Gehirn\|Zweites Gehirn]]                       | Atlas/Notes/Terms | February 22, 2024 |
