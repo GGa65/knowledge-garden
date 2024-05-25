@@ -31,7 +31,9 @@
 | [[Atlas/Notes/Terms/Konzept der Direkten Leistungsvorlage\|Konzept der Direkten Leistungsvorlage]] | Atlas/Notes/Terms | October 08, 2023  |
 | [[Atlas/Notes/Terms/Lifelong Learning\|Lifelong Learning]]                                         | Atlas/Notes/Terms | November 06, 2023 |
 | [[Atlas/Notes/Terms/Literalität\|Literalität]]                                                     | Atlas/Notes/Terms | March 01, 2024    |
+| [[Atlas/Notes/Terms/Monopolsparten\|Monopolsparten]]                                               | Atlas/Notes/Terms | May 22, 2024      |
 | [[Atlas/Notes/Terms/MOOC\|MOOC]]                                                                   | Atlas/Notes/Terms | April 11, 2024    |
+| [[Atlas/Notes/Terms/product operating model\|product operating model]]                             | Atlas/Notes/Terms | May 22, 2024      |
 | [[Atlas/Notes/Terms/Tarifanwendungsfälle TAF\|Tarifanwendungsfälle TAF]]                           | Atlas/Notes/Terms | December 02, 2023 |
 | [[Atlas/Notes/Terms/Term Level Playing Field\|Term Level Playing Field]]                           | Atlas/Notes/Terms | February 20, 2024 |
 | [[Atlas/Notes/Terms/VUCA\|VUCA]]                                                                   | Atlas/Notes/Terms | November 19, 2023 |
